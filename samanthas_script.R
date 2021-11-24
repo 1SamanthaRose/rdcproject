@@ -1,9 +1,9 @@
-#Plotting total pop. growth
+#Plotting total population growth rate
 
 plot(DRC$Year, DRC$populationgrowth, pch = 10, col = "orange", cex = 0.5,  main = "Population Growth Rate in Percent from 1960 to 2020",
      xlab = "Year", ylab = "Growth Rate (%)", type = "s")
 
-#Plotting total pop.
+#Plotting total population
 
 DRC <- as.data.frame(DRC)
 plot(DRC$Year, DRC$tpop, pch = 5, na.rm = TRUE, main = "Total Population 1960 to 2020")
@@ -31,7 +31,7 @@ ggplotly(g)
 
 
 ###########
-#Emissions Graphs
+#Total greenhouse gas emissions plotly graph
 
 fig <- ggplot() +
     geom_smooth(DRC, mapping = aes(Year, tgg), color = "forestgreen", size = 1.22 ) +
@@ -60,7 +60,7 @@ q
 
 
 #########
-#Plotly graph of all the emission data in kilotons
+#Plotly graph of all the greenhouse gas emission data in kilotons
 
 labels <- c(otherc02 = "Other C02 Sources", meth = "Methane", c02kt = "C02")
 
@@ -81,7 +81,7 @@ ggplotly(p)
 
 ################3
 
-#Land Use Graphs
+#Land Use Graphs-farm versus forest
 
 g <- ggplot(data = DRC)+
   geom_point(mapping = aes(Year, fkm, color = "Forest Land"), cex = 1, alpha = 0.75, pch = 4, na.rm = TRUE,) + 
@@ -99,9 +99,9 @@ ggplotly(g)
 
 #############
 
-#Ratio of forest and farm
+#Plotting the percent of arable land
 
 
-p <- plot_ly(DRC, x = ~Year, y = ~fkm/agrland, title = "q")
+plot(arbland$Year, arbland$arbland, main = "Percent of Arable Land", type = "l", xlab = "Year", ylab = "Percent", cex = 1.5,
+     col = "olivedrab")
 
-p
