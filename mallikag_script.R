@@ -5,13 +5,11 @@ library(readr)
 library(ggplot2)
 library(plotly)
 library(tidyverse)
-
-climate_change_cod <- read_csv("climate_change_cod.csv")
-
-View(climate_change_cod)
+library(gapminder)
+library(ggridges)
 
 
-## Two Visualizations
+## Visualizations
 
 DRC <- as.data.frame(DRC)
 
@@ -54,7 +52,34 @@ ggplot(DRC, aes(x=Year, y=urbpop) ) +
 ## growth between Year and Urban Population. This graph explains that as the years go by, the urban 
 ## population also increases.
 
+## Linear Model
 
+h <- ggplot(DRC, mapping=aes(x=Year, y=agrland)) +
+  geom_point() +
+  geom_smooth(method=lm, color="Green", se=FALSE)
+h
+
+## Explanation of the Linear Model Plot
+
+## I created a scatter plot and used the geom_smooth argument to create a linear model using the 
+## regression line. In the scatter plot, I can see as the years increase, the agricultural land (in km)
+## is seen to be increasing. Around the year 2000, it starts to decrease and in the year 2010 increases 
+## again. In between the years of 2012-2018, there is a cluster of points starting from 315000 km and 
+## goes up to 3200000. There are some points closer to the regression line, and some points below the 
+## regression line are far away. 
+
+## How the Growth in Agricultural Land Relates to Urban Population.
+
+## Around the years 1960-1990, there was not much agricultural land (in km). This could be because there
+## was not many people living in urban areas. The population was not that much and less land was needed
+## to do agriculture. As the years passed and the population increased, more land was needed to do 
+## agriculture and grow different types of crops. In the years 2010-2018, the agricultural land 
+## increased to a value of 315000 km.
+
+
+
+
+ 
 
 
 
