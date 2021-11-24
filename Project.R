@@ -207,7 +207,11 @@ ggplot(DRC, aes(x=Year, y=CO2emissionsgaseouskt)) +
 ## From the years of 1960-2018, the CO2 emissions are shown to be constant around the value zero.
 ## Around the year 2016, the CO2 emissions value is seen to be 3.667 per kiloton. When the year was 
 ## 2010, the CO2 gases emitted are seen to be 44.004. There are N/A values between the years of 
-## 2017-2020. 
+## 2017-2020. The CO2 emissions are seen to be constant around the value zero and then shown to be 
+## increasing.In between the years of 2008 - 2010, the CO2 emissions are seen to be constant.Around
+## the year 2020, the CO2 emissions are seen to be decreasing as seen in the plot.Around the year 2012,
+## it is seen to be increasing.From the years 2012-2014, the CO2 emissions rate is shown to be constant.
+## Around the year 2016, it is shown to be decreasing.
 
 ## How it Relates to Other Variables
 
@@ -215,7 +219,6 @@ ggplot(DRC, aes(x=Year, y=CO2emissionsgaseouskt)) +
 ## reasons why this could have occurred is because there were not many people which led to the 
 ## population to be less. Also, the number of cars driven by the population were less as compared to 
 ## the 2000s.
-
 
 ######################################################################################################
 ###############################################################################################
