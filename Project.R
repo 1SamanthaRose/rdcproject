@@ -83,7 +83,3 @@ remove(CO2emissionsgaseouskt, populationgrowth, avgprec, totalgreenhousekt, agrl
        popg, upa, tpop, rec, ate, forestkm, agkm, agp, arbland)
 #making DRC dataframe
 DRC <- as.data.frame(DRC)
-
-
-
-                                                      
