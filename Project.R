@@ -8,6 +8,12 @@ library(ggplot2)
 library(corrgram)
 library(scales)
 library(tidyverse)
+library(readr)
+library(gapminder)
+library(ggridges)
+library(plotly)
+
+
 ccc <- read.csv("climate-change_cod.csv")
 cod_dataset <- ccc
 cod_dataset <- select(cod_dataset, Year, Value)
@@ -47,6 +53,10 @@ agp  <- slice(cod_dataset, 60:175)       #agriculture groth %
 agp <- rename(agp, ag.lnd.per = "Value")
 DRC <- merge(DRC, agp, by = "Year", all = TRUE)
 
+arbland <- slice(cod_dataset, 118:175)   #arable land %
+arbland <- rename(arbland, arbland = "Value")
+arbland <- merge(DRC, arbland, by = "Year", all = TRUE)
+
 
 forestkm <-slice(cod_dataset, 191:219)  #forest land per km^2
 forestkm <- rename(forestkm, fkm = "Value")
@@ -73,13 +83,48 @@ tpop <- slice(cod_dataset, 1642:1702)   #total population
 tpop <- rename(tpop, tpop = "Value")
 DRC <- merge(DRC, tpop, by = "Year", all = TRUE)
 
-arbland <- slice(cod_dataset, 118:175)   #arable land %
-arbland <- rename(arbland, arbland = "Value")
-arbland <- merge(DRC, arbland, by = "Year", all = TRUE)
+
+c02kt <- slice(cod_dataset, 632:690)   #total c02em by kt
+c02kt <- rename(c02kt, c02kt = "Value")
+DRC <- merge(DRC, c02kt, by = "Year", all = TRUE)
+
+liquidc02 <- slice(cod_dataset, 691:744)   #c02 from liquid fuel consumption by kt
+liquidc02 <- rename(liquidc02, liquidc02 = "Value")
+DRC <- merge(DRC, liquidc02, by = "Year", all = TRUE)
+
+
+solidc02 <- slice(cod_dataset, 922:978)   #c02 em from solid fuel consumption by kt
+solidc02 <- rename(solidc02, solidc02 = "Value")
+DRC <- merge(DRC, solidc02, by = "Year", all = TRUE)
+
+
+
+otherc02 <- slice(cod_dataset, 1036:1082)   #other greenhouse gas emissions(HFCs, PFCs, SF6, etc) by kt
+otherc02 <- rename(otherc02, otherc02 = "Value")
+DRC <- merge(DRC, otherc02, by = "Year", all = TRUE)
+
+
+tgg <- slice(cod_dataset, 1105:1153)   #total greenhouse gas emissions by kt
+tgg <- rename(tgg, tgg = "Value")
+DRC <- merge(DRC, tgg, by = "Year", all = TRUE)
+
+
+meth <- slice(cod_dataset, 1181:1229)   #methane emissions by kt
+meth <- rename(meth, meth = "Value")
+DRC <- merge(DRC, meth, by = "Year", all = TRUE)
+
+noxide <- slice(cod_dataset, 1252:1300)   #total population
+noxide <- rename(noxide, noxide = "Value")
+DRC <- merge(DRC, oxide, by = "Year", all = TRUE)
+
+
+
 
 
 #removing all the dataframes created from this method of slicing
 remove(CO2emissionsgaseouskt, populationgrowth, avgprec, totalgreenhousekt, agrland, urbpop,
-       popg, upa, tpop, rec, ate, forestkm, agkm, agp, arbland)
+       popg, upa, tpop, rec, ate, forestkm, agkm, agp, noxide, meth, tgg, solidc02, otherc02,c02kt)
 #making DRC dataframe
 DRC <- as.data.frame(DRC)
+
+DRC[] <- lapply(DRC, as.numeric)

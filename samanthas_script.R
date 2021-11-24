@@ -1,7 +1,4 @@
 #Plotting total pop. growth
-DRC$Year <- as.numeric(as.character(DRC$Year))
-DRC$populationgrowth <- as.numeric(as.character(DRC$populationgrowth))
-
 
 plot(DRC$Year, DRC$populationgrowth, pch = 10, col = "orange", cex = 0.5,  main = "Population Growth Rate in Percent from 1960 to 2020",
      xlab = "Year", ylab = "Growth Rate (%)", type = "s")
@@ -17,10 +14,7 @@ plot(DRC$Year, DRC$tpop, pch = 5, na.rm = TRUE, main = "Total Population 1960 to
 
 colnames(DRC) <- make.unique(names(DRC)) #if getting duplicate 'data' error
 DRC <- as.data.frame(lapply(DRC, na.omit)) #trying to remove NA values
-DRC$upa <- as.numeric(as.character(DRC$upa))
-DRC$ate <- as.numeric(as.character(DRC$ate))
-DRC$rec <- as.numeric(as.character(DRC$rec))
-DRC$ag.lnd.per <- as.numeric(as.character(DRC$ag.lnd.per))
+
 
 
 g <- ggplot(data = DRC)+
@@ -33,28 +27,81 @@ g <- ggplot(data = DRC)+
   ylab("Growth Rate (%)") +
   labs(title = "Electricity Access, Population, and Urban Population Growth Rates")
 
-g
+ggplotly(g)
 
 
-############
-#Correlogram between Year, Ag. Arable, precipitation, 
+###########
+#Emissions Graphs
 
-DRC$arbland <- as.numeric(as.character(DRC$arbland))
-DRC$agrland <- as.numeric(as.character(DRC$agrland))
-DRC$avgprec <- as.numeric(as.character(DRC$avgprec))
-DRC$avgprec <- as.numeric(as.character(DRC$avgprec))
-
-
-#First creating new DF with variables I want
-
-cor.df <- select(DRC, c(avgprec, fkm, Year, agrland))
-cor.df <- cor(cor.df)
+fig <- ggplot() +
+    geom_smooth(DRC, mapping = aes(Year, tgg), color = "forestgreen", size = 1.22 ) +
+  labs(main = "Total Greenhouse Gas Emissions by Kiloton", ylab = "Kilotons")
+fig
 
 
-#making them all numeric not chr.
+q<-ggplot(DRC, aes(x = Year, y = tgg)) +
+geom_smooth(method = "loess",
+            se = FALSE,
+            formula = 'y ~ x',
+            span = 0.8, color = "forestgreen") +
+  stat_smooth(se=FALSE, geom="area",
+              method = 'loess', alpha=.5,
+              span = 0.8, fill = "forestgreen") +
+  theme_bw() +
+  theme(axis.line = element_line(colour = "black"),
+        panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank(),
+        panel.border = element_blank(),
+        panel.background = element_blank()) +
+  labs(title = "Total Greenhouse Gas Emissions in Kilotons") +
+  labs(y = "Kilotons")
+
+q
 
 
-library(corrgram)
-corrgram(cor.df, order=NULL, panel=panel.shade, text.panel=panel.txt,
-         main="Land and Precipitation Data")
+#########
+#Plotly graph of all the emission data in kilotons
 
+labels <- c(otherc02 = "Other C02 Sources", meth = "Methane", c02kt = "C02")
+
+p <- ggplot()+
+  geom_line(DRC, mapping = aes(Year, otherc02, color = "otherc02"), na.rm = TRUE) +
+  geom_line(DRC, mapping = aes(Year, meth, color = "meth"), na.rm = TRUE) +
+  geom_line(DRC, mapping = aes(Year, c02kt, color = "c02kt"), na.rm = TRUE) +
+  labs(title = "Greenhouse Gas per Kiloton Comparison") +
+  labs(y = "Kilotons") +
+  scale_color_discrete(name = "Gas") +
+  theme_bw()
+
+
+
+ggplotly(p)
+
+
+
+################3
+
+#Land Use Graphs
+
+g <- ggplot(data = DRC)+
+  geom_point(mapping = aes(Year, fkm, color = "Forest Land"), cex = 1, alpha = 0.75, pch = 4, na.rm = TRUE,) + 
+  geom_point(mapping = aes(Year, agrland, color = "Agricultural Land"), cex = 1, pch = 4, alpha = 0.75, na.rm = TRUE) +
+  scale_color_discrete(name = "Land Use") +
+  theme_classic() +
+  xlab("Year") +
+  ylab("Square Kilometres") +
+  labs(title = "Land Use-Forest vs. Farm")
+
+
+ggplotly(g)
+
+
+
+#############
+
+#Ratio of forest and farm
+
+
+p <- plot_ly(DRC, x = ~Year, y = ~fkm/agrland, title = "q")
+
+p
