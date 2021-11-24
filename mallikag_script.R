@@ -22,6 +22,7 @@ agrland<- lapply(DRC$agrland, as.numeric)
 DRC$Year <- as.numeric(as.character(DRC$Year))
 DRC$urbpop <- as.numeric(as.character(DRC$urbpop))
 
+
 plot(DRC$Year, DRC$urbpop, pch=0.75, col = "Red", na.rm = FALSE, main= "Urban Population from 1960 to 2020")
 
 ## Explanation
@@ -81,7 +82,8 @@ h
 ## Line Chart
 
 ggplot(DRC, aes(x=Year, y=CO2emissionsgaseouskt)) +
-  geom_line(color="purple")
+  geom_line(color="purple", linetype=1, alpha=0.5, size=2.5) +
+  ggtitle("Increase in CO2 Emissions Over Different Years")
 
 ## Explanation of Line Chart
 
