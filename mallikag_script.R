@@ -9,7 +9,7 @@ library(gapminder)
 library(ggridges)
 
 
-## Two Visualizations
+## Visualizations
 
 DRC <- as.data.frame(DRC)
 
@@ -75,6 +75,8 @@ h
 ## to do agriculture. As the years passed and the population increased, more land was needed to do 
 ## agriculture and grow different types of crops. In the years 2010-2018, the agricultural land 
 ## increased to a value of 315000 km.
+
+
 
 
  
