@@ -1,0 +1,22 @@
+Find a dataset of your choice that you would like to analyze and visualize or just visualize. Create a plot/map/graph/network visualization through which you would show in just one picture what these data or information is about. 
+You will be graded on the following: 
+
+
+
+1. Does the code run - can someone else reproduce your work? - make sure to include the data in your submission 
+2. Are you showing the results with the visualization? Are you  telling a story with the data? 
+3. Are you following  Tufte's principles of visualization? 
+Do not use trivial data sets on which all you can show is one basic plot (i.e., histogram). 
+Submit a single .R file and a short powerpoint presentation in which you describe: the data that you used; the packages that you used; the goal of your project and the final visualization. 
+Improving other existing visualizations is also acceptable.
+
+
+
+To create a plot and add another dataset to the plot-> use 'par(new=TRUE)' inbetween the plot fxs
+
+Which variables will we use?
+
+	
+colnames(DRC) <- make.unique(names(DRC)) #if getting duplicate 'data' error
+
+You can use options(scipen = 999) before plotting, in order to avoid scientific notation of numbers.

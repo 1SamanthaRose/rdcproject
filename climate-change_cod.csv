@@ -1,0 +1,1886 @@
+Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+#country+name,#country+code,#date+year,#indicator+name,#indicator+code,#indicator+value+num
+"Congo, Dem. Rep.",COD,2018,Agricultural land (sq. km),AG.LND.AGRI.K2,315000
+"Congo, Dem. Rep.",COD,2017,Agricultural land (sq. km),AG.LND.AGRI.K2,315000
+"Congo, Dem. Rep.",COD,2016,Agricultural land (sq. km),AG.LND.AGRI.K2,320000
+"Congo, Dem. Rep.",COD,2015,Agricultural land (sq. km),AG.LND.AGRI.K2,322000
+"Congo, Dem. Rep.",COD,2014,Agricultural land (sq. km),AG.LND.AGRI.K2,321000
+"Congo, Dem. Rep.",COD,2013,Agricultural land (sq. km),AG.LND.AGRI.K2,314000
+"Congo, Dem. Rep.",COD,2012,Agricultural land (sq. km),AG.LND.AGRI.K2,307760
+"Congo, Dem. Rep.",COD,2011,Agricultural land (sq. km),AG.LND.AGRI.K2,262000
+"Congo, Dem. Rep.",COD,2010,Agricultural land (sq. km),AG.LND.AGRI.K2,260000
+"Congo, Dem. Rep.",COD,2009,Agricultural land (sq. km),AG.LND.AGRI.K2,257450
+"Congo, Dem. Rep.",COD,2008,Agricultural land (sq. km),AG.LND.AGRI.K2,257000
+"Congo, Dem. Rep.",COD,2007,Agricultural land (sq. km),AG.LND.AGRI.K2,256500
+"Congo, Dem. Rep.",COD,2006,Agricultural land (sq. km),AG.LND.AGRI.K2,255860
+"Congo, Dem. Rep.",COD,2005,Agricultural land (sq. km),AG.LND.AGRI.K2,255500
+"Congo, Dem. Rep.",COD,2004,Agricultural land (sq. km),AG.LND.AGRI.K2,255500
+"Congo, Dem. Rep.",COD,2003,Agricultural land (sq. km),AG.LND.AGRI.K2,255500
+"Congo, Dem. Rep.",COD,2002,Agricultural land (sq. km),AG.LND.AGRI.K2,255500
+"Congo, Dem. Rep.",COD,2001,Agricultural land (sq. km),AG.LND.AGRI.K2,255500
+"Congo, Dem. Rep.",COD,2000,Agricultural land (sq. km),AG.LND.AGRI.K2,256000
+"Congo, Dem. Rep.",COD,1999,Agricultural land (sq. km),AG.LND.AGRI.K2,256000
+"Congo, Dem. Rep.",COD,1998,Agricultural land (sq. km),AG.LND.AGRI.K2,257000
+"Congo, Dem. Rep.",COD,1997,Agricultural land (sq. km),AG.LND.AGRI.K2,257000
+"Congo, Dem. Rep.",COD,1996,Agricultural land (sq. km),AG.LND.AGRI.K2,258000
+"Congo, Dem. Rep.",COD,1995,Agricultural land (sq. km),AG.LND.AGRI.K2,258000
+"Congo, Dem. Rep.",COD,1994,Agricultural land (sq. km),AG.LND.AGRI.K2,260000
+"Congo, Dem. Rep.",COD,1993,Agricultural land (sq. km),AG.LND.AGRI.K2,260000
+"Congo, Dem. Rep.",COD,1992,Agricultural land (sq. km),AG.LND.AGRI.K2,260000
+"Congo, Dem. Rep.",COD,1991,Agricultural land (sq. km),AG.LND.AGRI.K2,259800
+"Congo, Dem. Rep.",COD,1990,Agricultural land (sq. km),AG.LND.AGRI.K2,259600
+"Congo, Dem. Rep.",COD,1989,Agricultural land (sq. km),AG.LND.AGRI.K2,259500
+"Congo, Dem. Rep.",COD,1988,Agricultural land (sq. km),AG.LND.AGRI.K2,259500
+"Congo, Dem. Rep.",COD,1987,Agricultural land (sq. km),AG.LND.AGRI.K2,259500
+"Congo, Dem. Rep.",COD,1986,Agricultural land (sq. km),AG.LND.AGRI.K2,259500
+"Congo, Dem. Rep.",COD,1985,Agricultural land (sq. km),AG.LND.AGRI.K2,259000
+"Congo, Dem. Rep.",COD,1984,Agricultural land (sq. km),AG.LND.AGRI.K2,258500
+"Congo, Dem. Rep.",COD,1983,Agricultural land (sq. km),AG.LND.AGRI.K2,258000
+"Congo, Dem. Rep.",COD,1982,Agricultural land (sq. km),AG.LND.AGRI.K2,257700
+"Congo, Dem. Rep.",COD,1981,Agricultural land (sq. km),AG.LND.AGRI.K2,257500
+"Congo, Dem. Rep.",COD,1980,Agricultural land (sq. km),AG.LND.AGRI.K2,257000
+"Congo, Dem. Rep.",COD,1979,Agricultural land (sq. km),AG.LND.AGRI.K2,256500
+"Congo, Dem. Rep.",COD,1978,Agricultural land (sq. km),AG.LND.AGRI.K2,256500
+"Congo, Dem. Rep.",COD,1977,Agricultural land (sq. km),AG.LND.AGRI.K2,256300
+"Congo, Dem. Rep.",COD,1976,Agricultural land (sq. km),AG.LND.AGRI.K2,256000
+"Congo, Dem. Rep.",COD,1975,Agricultural land (sq. km),AG.LND.AGRI.K2,255500
+"Congo, Dem. Rep.",COD,1974,Agricultural land (sq. km),AG.LND.AGRI.K2,255500
+"Congo, Dem. Rep.",COD,1973,Agricultural land (sq. km),AG.LND.AGRI.K2,255000
+"Congo, Dem. Rep.",COD,1972,Agricultural land (sq. km),AG.LND.AGRI.K2,254500
+"Congo, Dem. Rep.",COD,1971,Agricultural land (sq. km),AG.LND.AGRI.K2,254000
+"Congo, Dem. Rep.",COD,1970,Agricultural land (sq. km),AG.LND.AGRI.K2,253500
+"Congo, Dem. Rep.",COD,1969,Agricultural land (sq. km),AG.LND.AGRI.K2,253000
+"Congo, Dem. Rep.",COD,1968,Agricultural land (sq. km),AG.LND.AGRI.K2,252500
+"Congo, Dem. Rep.",COD,1967,Agricultural land (sq. km),AG.LND.AGRI.K2,252000
+"Congo, Dem. Rep.",COD,1966,Agricultural land (sq. km),AG.LND.AGRI.K2,251700
+"Congo, Dem. Rep.",COD,1965,Agricultural land (sq. km),AG.LND.AGRI.K2,251500
+"Congo, Dem. Rep.",COD,1964,Agricultural land (sq. km),AG.LND.AGRI.K2,251300
+"Congo, Dem. Rep.",COD,1963,Agricultural land (sq. km),AG.LND.AGRI.K2,251000
+"Congo, Dem. Rep.",COD,1962,Agricultural land (sq. km),AG.LND.AGRI.K2,250700
+"Congo, Dem. Rep.",COD,1961,Agricultural land (sq. km),AG.LND.AGRI.K2,250500
+"Congo, Dem. Rep.",COD,2018,Agricultural land (% of land area),AG.LND.AGRI.ZS,13.89470898
+"Congo, Dem. Rep.",COD,2017,Agricultural land (% of land area),AG.LND.AGRI.ZS,13.89470898
+"Congo, Dem. Rep.",COD,2016,Agricultural land (% of land area),AG.LND.AGRI.ZS,14.11525992
+"Congo, Dem. Rep.",COD,2015,Agricultural land (% of land area),AG.LND.AGRI.ZS,14.20348029
+"Congo, Dem. Rep.",COD,2014,Agricultural land (% of land area),AG.LND.AGRI.ZS,14.15937011
+"Congo, Dem. Rep.",COD,2013,Agricultural land (% of land area),AG.LND.AGRI.ZS,13.8505988
+"Congo, Dem. Rep.",COD,2012,Agricultural land (% of land area),AG.LND.AGRI.ZS,13.57535123
+"Congo, Dem. Rep.",COD,2011,Agricultural land (% of land area),AG.LND.AGRI.ZS,11.55686906
+"Congo, Dem. Rep.",COD,2010,Agricultural land (% of land area),AG.LND.AGRI.ZS,11.46864868
+"Congo, Dem. Rep.",COD,2009,Agricultural land (% of land area),AG.LND.AGRI.ZS,11.35616771
+"Congo, Dem. Rep.",COD,2008,Agricultural land (% of land area),AG.LND.AGRI.ZS,11.33631812
+"Congo, Dem. Rep.",COD,2007,Agricultural land (% of land area),AG.LND.AGRI.ZS,11.31426303
+"Congo, Dem. Rep.",COD,2006,Agricultural land (% of land area),AG.LND.AGRI.ZS,11.28603251
+"Congo, Dem. Rep.",COD,2005,Agricultural land (% of land area),AG.LND.AGRI.ZS,11.27015284
+"Congo, Dem. Rep.",COD,2004,Agricultural land (% of land area),AG.LND.AGRI.ZS,11.27015284
+"Congo, Dem. Rep.",COD,2003,Agricultural land (% of land area),AG.LND.AGRI.ZS,11.27015284
+"Congo, Dem. Rep.",COD,2002,Agricultural land (% of land area),AG.LND.AGRI.ZS,11.27015284
+"Congo, Dem. Rep.",COD,2001,Agricultural land (% of land area),AG.LND.AGRI.ZS,11.27015284
+"Congo, Dem. Rep.",COD,2000,Agricultural land (% of land area),AG.LND.AGRI.ZS,11.29220794
+"Congo, Dem. Rep.",COD,1999,Agricultural land (% of land area),AG.LND.AGRI.ZS,11.29220794
+"Congo, Dem. Rep.",COD,1998,Agricultural land (% of land area),AG.LND.AGRI.ZS,11.33631812
+"Congo, Dem. Rep.",COD,1997,Agricultural land (% of land area),AG.LND.AGRI.ZS,11.33631812
+"Congo, Dem. Rep.",COD,1996,Agricultural land (% of land area),AG.LND.AGRI.ZS,11.38042831
+"Congo, Dem. Rep.",COD,1995,Agricultural land (% of land area),AG.LND.AGRI.ZS,11.38042831
+"Congo, Dem. Rep.",COD,1994,Agricultural land (% of land area),AG.LND.AGRI.ZS,11.46864868
+"Congo, Dem. Rep.",COD,1993,Agricultural land (% of land area),AG.LND.AGRI.ZS,11.46864868
+"Congo, Dem. Rep.",COD,1992,Agricultural land (% of land area),AG.LND.AGRI.ZS,11.46864868
+"Congo, Dem. Rep.",COD,1991,Agricultural land (% of land area),AG.LND.AGRI.ZS,11.45982665
+"Congo, Dem. Rep.",COD,1990,Agricultural land (% of land area),AG.LND.AGRI.ZS,11.45100461
+"Congo, Dem. Rep.",COD,1989,Agricultural land (% of land area),AG.LND.AGRI.ZS,11.44659359
+"Congo, Dem. Rep.",COD,1988,Agricultural land (% of land area),AG.LND.AGRI.ZS,11.44659359
+"Congo, Dem. Rep.",COD,1987,Agricultural land (% of land area),AG.LND.AGRI.ZS,11.44659359
+"Congo, Dem. Rep.",COD,1986,Agricultural land (% of land area),AG.LND.AGRI.ZS,11.44659359
+"Congo, Dem. Rep.",COD,1985,Agricultural land (% of land area),AG.LND.AGRI.ZS,11.4245385
+"Congo, Dem. Rep.",COD,1984,Agricultural land (% of land area),AG.LND.AGRI.ZS,11.4024834
+"Congo, Dem. Rep.",COD,1983,Agricultural land (% of land area),AG.LND.AGRI.ZS,11.38042831
+"Congo, Dem. Rep.",COD,1982,Agricultural land (% of land area),AG.LND.AGRI.ZS,11.36719525
+"Congo, Dem. Rep.",COD,1981,Agricultural land (% of land area),AG.LND.AGRI.ZS,11.35837322
+"Congo, Dem. Rep.",COD,1980,Agricultural land (% of land area),AG.LND.AGRI.ZS,11.33631812
+"Congo, Dem. Rep.",COD,1979,Agricultural land (% of land area),AG.LND.AGRI.ZS,11.31426303
+"Congo, Dem. Rep.",COD,1978,Agricultural land (% of land area),AG.LND.AGRI.ZS,11.31426303
+"Congo, Dem. Rep.",COD,1977,Agricultural land (% of land area),AG.LND.AGRI.ZS,11.30544099
+"Congo, Dem. Rep.",COD,1976,Agricultural land (% of land area),AG.LND.AGRI.ZS,11.29220794
+"Congo, Dem. Rep.",COD,1975,Agricultural land (% of land area),AG.LND.AGRI.ZS,11.27015284
+"Congo, Dem. Rep.",COD,1974,Agricultural land (% of land area),AG.LND.AGRI.ZS,11.27015284
+"Congo, Dem. Rep.",COD,1973,Agricultural land (% of land area),AG.LND.AGRI.ZS,11.24809775
+"Congo, Dem. Rep.",COD,1972,Agricultural land (% of land area),AG.LND.AGRI.ZS,11.22604265
+"Congo, Dem. Rep.",COD,1971,Agricultural land (% of land area),AG.LND.AGRI.ZS,11.20398756
+"Congo, Dem. Rep.",COD,1970,Agricultural land (% of land area),AG.LND.AGRI.ZS,11.18193247
+"Congo, Dem. Rep.",COD,1969,Agricultural land (% of land area),AG.LND.AGRI.ZS,11.15987737
+"Congo, Dem. Rep.",COD,1968,Agricultural land (% of land area),AG.LND.AGRI.ZS,11.13782228
+"Congo, Dem. Rep.",COD,1967,Agricultural land (% of land area),AG.LND.AGRI.ZS,11.11576719
+"Congo, Dem. Rep.",COD,1966,Agricultural land (% of land area),AG.LND.AGRI.ZS,11.10253413
+"Congo, Dem. Rep.",COD,1965,Agricultural land (% of land area),AG.LND.AGRI.ZS,11.09371209
+"Congo, Dem. Rep.",COD,1964,Agricultural land (% of land area),AG.LND.AGRI.ZS,11.08489006
+"Congo, Dem. Rep.",COD,1963,Agricultural land (% of land area),AG.LND.AGRI.ZS,11.071657
+"Congo, Dem. Rep.",COD,1962,Agricultural land (% of land area),AG.LND.AGRI.ZS,11.05842394
+"Congo, Dem. Rep.",COD,1961,Agricultural land (% of land area),AG.LND.AGRI.ZS,11.04960191
+"Congo, Dem. Rep.",COD,2018,Arable land (% of land area),AG.LND.ARBL.ZS,5.205002095
+"Congo, Dem. Rep.",COD,2017,Arable land (% of land area),AG.LND.ARBL.ZS,5.205002095
+"Congo, Dem. Rep.",COD,2016,Arable land (% of land area),AG.LND.ARBL.ZS,5.425553031
+"Congo, Dem. Rep.",COD,2015,Arable land (% of land area),AG.LND.ARBL.ZS,5.513773406
+"Congo, Dem. Rep.",COD,2014,Arable land (% of land area),AG.LND.ARBL.ZS,5.469663219
+"Congo, Dem. Rep.",COD,2013,Arable land (% of land area),AG.LND.ARBL.ZS,5.249112282
+"Congo, Dem. Rep.",COD,2012,Arable land (% of land area),AG.LND.ARBL.ZS,5.062085089
+"Congo, Dem. Rep.",COD,2011,Arable land (% of land area),AG.LND.ARBL.ZS,3.087713107
+"Congo, Dem. Rep.",COD,2010,Arable land (% of land area),AG.LND.ARBL.ZS,2.999492733
+"Congo, Dem. Rep.",COD,2009,Arable land (% of land area),AG.LND.ARBL.ZS,2.995081714
+"Congo, Dem. Rep.",COD,2008,Arable land (% of land area),AG.LND.ARBL.ZS,2.977437639
+"Congo, Dem. Rep.",COD,2007,Arable land (% of land area),AG.LND.ARBL.ZS,2.955382546
+"Congo, Dem. Rep.",COD,2006,Arable land (% of land area),AG.LND.ARBL.ZS,2.955382546
+"Congo, Dem. Rep.",COD,2005,Arable land (% of land area),AG.LND.ARBL.ZS,2.955382546
+"Congo, Dem. Rep.",COD,2004,Arable land (% of land area),AG.LND.ARBL.ZS,2.955382546
+"Congo, Dem. Rep.",COD,2003,Arable land (% of land area),AG.LND.ARBL.ZS,2.955382546
+"Congo, Dem. Rep.",COD,2002,Arable land (% of land area),AG.LND.ARBL.ZS,2.955382546
+"Congo, Dem. Rep.",COD,2001,Arable land (% of land area),AG.LND.ARBL.ZS,2.955382546
+"Congo, Dem. Rep.",COD,2000,Arable land (% of land area),AG.LND.ARBL.ZS,2.955382546
+"Congo, Dem. Rep.",COD,1999,Arable land (% of land area),AG.LND.ARBL.ZS,2.955382546
+"Congo, Dem. Rep.",COD,1998,Arable land (% of land area),AG.LND.ARBL.ZS,2.955382546
+"Congo, Dem. Rep.",COD,1997,Arable land (% of land area),AG.LND.ARBL.ZS,2.955382546
+"Congo, Dem. Rep.",COD,1996,Arable land (% of land area),AG.LND.ARBL.ZS,2.955382546
+"Congo, Dem. Rep.",COD,1995,Arable land (% of land area),AG.LND.ARBL.ZS,2.955382546
+"Congo, Dem. Rep.",COD,1994,Arable land (% of land area),AG.LND.ARBL.ZS,2.955382546
+"Congo, Dem. Rep.",COD,1993,Arable land (% of land area),AG.LND.ARBL.ZS,2.955382546
+"Congo, Dem. Rep.",COD,1992,Arable land (% of land area),AG.LND.ARBL.ZS,2.955382546
+"Congo, Dem. Rep.",COD,1991,Arable land (% of land area),AG.LND.ARBL.ZS,2.946560508
+"Congo, Dem. Rep.",COD,1990,Arable land (% of land area),AG.LND.ARBL.ZS,2.942149489
+"Congo, Dem. Rep.",COD,1989,Arable land (% of land area),AG.LND.ARBL.ZS,2.955382546
+"Congo, Dem. Rep.",COD,1988,Arable land (% of land area),AG.LND.ARBL.ZS,2.955382546
+"Congo, Dem. Rep.",COD,1987,Arable land (% of land area),AG.LND.ARBL.ZS,2.955382546
+"Congo, Dem. Rep.",COD,1986,Arable land (% of land area),AG.LND.ARBL.ZS,2.964204583
+"Congo, Dem. Rep.",COD,1985,Arable land (% of land area),AG.LND.ARBL.ZS,2.955382546
+"Congo, Dem. Rep.",COD,1984,Arable land (% of land area),AG.LND.ARBL.ZS,2.942149489
+"Congo, Dem. Rep.",COD,1983,Arable land (% of land area),AG.LND.ARBL.ZS,2.933327452
+"Congo, Dem. Rep.",COD,1982,Arable land (% of land area),AG.LND.ARBL.ZS,2.928916433
+"Congo, Dem. Rep.",COD,1981,Arable land (% of land area),AG.LND.ARBL.ZS,2.933327452
+"Congo, Dem. Rep.",COD,1980,Arable land (% of land area),AG.LND.ARBL.ZS,2.920094396
+"Congo, Dem. Rep.",COD,1979,Arable land (% of land area),AG.LND.ARBL.ZS,2.911272358
+"Congo, Dem. Rep.",COD,1978,Arable land (% of land area),AG.LND.ARBL.ZS,2.920094396
+"Congo, Dem. Rep.",COD,1977,Arable land (% of land area),AG.LND.ARBL.ZS,2.915683377
+"Congo, Dem. Rep.",COD,1976,Arable land (% of land area),AG.LND.ARBL.ZS,2.90686134
+"Congo, Dem. Rep.",COD,1975,Arable land (% of land area),AG.LND.ARBL.ZS,2.887011755
+"Congo, Dem. Rep.",COD,1974,Arable land (% of land area),AG.LND.ARBL.ZS,2.889217265
+"Congo, Dem. Rep.",COD,1973,Arable land (% of land area),AG.LND.ARBL.ZS,2.875984209
+"Congo, Dem. Rep.",COD,1972,Arable land (% of land area),AG.LND.ARBL.ZS,2.867162171
+"Congo, Dem. Rep.",COD,1971,Arable land (% of land area),AG.LND.ARBL.ZS,2.853929115
+"Congo, Dem. Rep.",COD,1970,Arable land (% of land area),AG.LND.ARBL.ZS,2.840696059
+"Congo, Dem. Rep.",COD,1969,Arable land (% of land area),AG.LND.ARBL.ZS,2.831874021
+"Congo, Dem. Rep.",COD,1968,Arable land (% of land area),AG.LND.ARBL.ZS,2.823051984
+"Congo, Dem. Rep.",COD,1967,Arable land (% of land area),AG.LND.ARBL.ZS,2.809818928
+"Congo, Dem. Rep.",COD,1966,Arable land (% of land area),AG.LND.ARBL.ZS,2.805407909
+"Congo, Dem. Rep.",COD,1965,Arable land (% of land area),AG.LND.ARBL.ZS,2.805407909
+"Congo, Dem. Rep.",COD,1964,Arable land (% of land area),AG.LND.ARBL.ZS,2.814229946
+"Congo, Dem. Rep.",COD,1963,Arable land (% of land area),AG.LND.ARBL.ZS,2.823051984
+"Congo, Dem. Rep.",COD,1962,Arable land (% of land area),AG.LND.ARBL.ZS,2.823051984
+"Congo, Dem. Rep.",COD,1961,Arable land (% of land area),AG.LND.ARBL.ZS,2.823051984
+"Congo, Dem. Rep.",COD,2010,Rural land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.RU.K2,471.2958069
+"Congo, Dem. Rep.",COD,2000,Rural land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.RU.K2,471.2958069
+"Congo, Dem. Rep.",COD,1990,Rural land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.RU.K2,471.2958069
+"Congo, Dem. Rep.",COD,2010,Rural land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.RU.ZS,0.020599732
+"Congo, Dem. Rep.",COD,2000,Rural land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.RU.ZS,0.020599732
+"Congo, Dem. Rep.",COD,1990,Rural land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.RU.ZS,0.020599732
+"Congo, Dem. Rep.",COD,2010,Urban land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.UR.K2,26.01448631
+"Congo, Dem. Rep.",COD,2000,Urban land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.UR.K2,26.01448631
+"Congo, Dem. Rep.",COD,1990,Urban land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.UR.K2,26.01448631
+"Congo, Dem. Rep.",COD,2010,Urban land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.UR.ZS,0.00113706
+"Congo, Dem. Rep.",COD,2000,Urban land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.UR.ZS,0.00113706
+"Congo, Dem. Rep.",COD,1990,Urban land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.UR.ZS,0.00113706
+"Congo, Dem. Rep.",COD,2010,Land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.ZS,0.021736792
+"Congo, Dem. Rep.",COD,2000,Land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.ZS,0.021736792
+"Congo, Dem. Rep.",COD,1990,Land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.ZS,0.021736792
+"Congo, Dem. Rep.",COD,2018,Forest area (sq. km),AG.LND.FRST.K2,1283579.9
+"Congo, Dem. Rep.",COD,2017,Forest area (sq. km),AG.LND.FRST.K2,1294593.7
+"Congo, Dem. Rep.",COD,2016,Forest area (sq. km),AG.LND.FRST.K2,1305607.4
+"Congo, Dem. Rep.",COD,2015,Forest area (sq. km),AG.LND.FRST.K2,1316621.2
+"Congo, Dem. Rep.",COD,2014,Forest area (sq. km),AG.LND.FRST.K2,1327634.96
+"Congo, Dem. Rep.",COD,2013,Forest area (sq. km),AG.LND.FRST.K2,1338648.72
+"Congo, Dem. Rep.",COD,2012,Forest area (sq. km),AG.LND.FRST.K2,1349662.48
+"Congo, Dem. Rep.",COD,2011,Forest area (sq. km),AG.LND.FRST.K2,1360676.24
+"Congo, Dem. Rep.",COD,2010,Forest area (sq. km),AG.LND.FRST.K2,1371690
+"Congo, Dem. Rep.",COD,2009,Forest area (sq. km),AG.LND.FRST.K2,1378420
+"Congo, Dem. Rep.",COD,2008,Forest area (sq. km),AG.LND.FRST.K2,1385150
+"Congo, Dem. Rep.",COD,2007,Forest area (sq. km),AG.LND.FRST.K2,1391880
+"Congo, Dem. Rep.",COD,2006,Forest area (sq. km),AG.LND.FRST.K2,1398610
+"Congo, Dem. Rep.",COD,2005,Forest area (sq. km),AG.LND.FRST.K2,1405340
+"Congo, Dem. Rep.",COD,2004,Forest area (sq. km),AG.LND.FRST.K2,1412070
+"Congo, Dem. Rep.",COD,2003,Forest area (sq. km),AG.LND.FRST.K2,1418800
+"Congo, Dem. Rep.",COD,2002,Forest area (sq. km),AG.LND.FRST.K2,1425530
+"Congo, Dem. Rep.",COD,2001,Forest area (sq. km),AG.LND.FRST.K2,1432260
+"Congo, Dem. Rep.",COD,2000,Forest area (sq. km),AG.LND.FRST.K2,1438990
+"Congo, Dem. Rep.",COD,1999,Forest area (sq. km),AG.LND.FRST.K2,1445720
+"Congo, Dem. Rep.",COD,1998,Forest area (sq. km),AG.LND.FRST.K2,1452450
+"Congo, Dem. Rep.",COD,1997,Forest area (sq. km),AG.LND.FRST.K2,1459180
+"Congo, Dem. Rep.",COD,1996,Forest area (sq. km),AG.LND.FRST.K2,1465910
+"Congo, Dem. Rep.",COD,1995,Forest area (sq. km),AG.LND.FRST.K2,1472640
+"Congo, Dem. Rep.",COD,1994,Forest area (sq. km),AG.LND.FRST.K2,1479370
+"Congo, Dem. Rep.",COD,1993,Forest area (sq. km),AG.LND.FRST.K2,1486100
+"Congo, Dem. Rep.",COD,1992,Forest area (sq. km),AG.LND.FRST.K2,1492830
+"Congo, Dem. Rep.",COD,1991,Forest area (sq. km),AG.LND.FRST.K2,1499560
+"Congo, Dem. Rep.",COD,1990,Forest area (sq. km),AG.LND.FRST.K2,1506290
+"Congo, Dem. Rep.",COD,2018,Forest area (% of land area),AG.LND.FRST.ZS,56.61894974
+"Congo, Dem. Rep.",COD,2017,Forest area (% of land area),AG.LND.FRST.ZS,57.10477052
+"Congo, Dem. Rep.",COD,2016,Forest area (% of land area),AG.LND.FRST.ZS,57.59058689
+"Congo, Dem. Rep.",COD,2015,Forest area (% of land area),AG.LND.FRST.ZS,58.07640767
+"Congo, Dem. Rep.",COD,2014,Forest area (% of land area),AG.LND.FRST.ZS,58.56222668
+"Congo, Dem. Rep.",COD,2013,Forest area (% of land area),AG.LND.FRST.ZS,59.0480457
+"Congo, Dem. Rep.",COD,2012,Forest area (% of land area),AG.LND.FRST.ZS,59.53386471
+"Congo, Dem. Rep.",COD,2011,Forest area (% of land area),AG.LND.FRST.ZS,60.01968373
+"Congo, Dem. Rep.",COD,2010,Forest area (% of land area),AG.LND.FRST.ZS,60.50550275
+"Congo, Dem. Rep.",COD,2009,Forest area (% of land area),AG.LND.FRST.ZS,60.80236431
+"Congo, Dem. Rep.",COD,2008,Forest area (% of land area),AG.LND.FRST.ZS,61.09922587
+"Congo, Dem. Rep.",COD,2007,Forest area (% of land area),AG.LND.FRST.ZS,61.39608743
+"Congo, Dem. Rep.",COD,2006,Forest area (% of land area),AG.LND.FRST.ZS,61.69294899
+"Congo, Dem. Rep.",COD,2005,Forest area (% of land area),AG.LND.FRST.ZS,61.98981055
+"Congo, Dem. Rep.",COD,2004,Forest area (% of land area),AG.LND.FRST.ZS,62.28667211
+"Congo, Dem. Rep.",COD,2003,Forest area (% of land area),AG.LND.FRST.ZS,62.58353367
+"Congo, Dem. Rep.",COD,2002,Forest area (% of land area),AG.LND.FRST.ZS,62.88039523
+"Congo, Dem. Rep.",COD,2001,Forest area (% of land area),AG.LND.FRST.ZS,63.17725679
+"Congo, Dem. Rep.",COD,2000,Forest area (% of land area),AG.LND.FRST.ZS,63.47411835
+"Congo, Dem. Rep.",COD,1999,Forest area (% of land area),AG.LND.FRST.ZS,63.77097991
+"Congo, Dem. Rep.",COD,1998,Forest area (% of land area),AG.LND.FRST.ZS,64.06784147
+"Congo, Dem. Rep.",COD,1997,Forest area (% of land area),AG.LND.FRST.ZS,64.36470303
+"Congo, Dem. Rep.",COD,1996,Forest area (% of land area),AG.LND.FRST.ZS,64.66156459
+"Congo, Dem. Rep.",COD,1995,Forest area (% of land area),AG.LND.FRST.ZS,64.95842615
+"Congo, Dem. Rep.",COD,1994,Forest area (% of land area),AG.LND.FRST.ZS,65.25528771
+"Congo, Dem. Rep.",COD,1993,Forest area (% of land area),AG.LND.FRST.ZS,65.55214927
+"Congo, Dem. Rep.",COD,1992,Forest area (% of land area),AG.LND.FRST.ZS,65.84901083
+"Congo, Dem. Rep.",COD,1991,Forest area (% of land area),AG.LND.FRST.ZS,66.14587239
+"Congo, Dem. Rep.",COD,1990,Forest area (% of land area),AG.LND.FRST.ZS,66.44273395
+"Congo, Dem. Rep.",COD,2017,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1543
+"Congo, Dem. Rep.",COD,2012,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1543
+"Congo, Dem. Rep.",COD,2007,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1543
+"Congo, Dem. Rep.",COD,2002,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1543
+"Congo, Dem. Rep.",COD,1997,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1543
+"Congo, Dem. Rep.",COD,1992,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1543
+"Congo, Dem. Rep.",COD,1987,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1543
+"Congo, Dem. Rep.",COD,1982,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1543
+"Congo, Dem. Rep.",COD,1977,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1543
+"Congo, Dem. Rep.",COD,1972,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1543
+"Congo, Dem. Rep.",COD,1967,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1543
+"Congo, Dem. Rep.",COD,1962,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,1543
+"Congo, Dem. Rep.",COD,2018,Cereal yield (kg per hectare),AG.YLD.CREL.KG,769.2
+"Congo, Dem. Rep.",COD,2017,Cereal yield (kg per hectare),AG.YLD.CREL.KG,769.4
+"Congo, Dem. Rep.",COD,2016,Cereal yield (kg per hectare),AG.YLD.CREL.KG,770
+"Congo, Dem. Rep.",COD,2015,Cereal yield (kg per hectare),AG.YLD.CREL.KG,768.7
+"Congo, Dem. Rep.",COD,2014,Cereal yield (kg per hectare),AG.YLD.CREL.KG,768.8
+"Congo, Dem. Rep.",COD,2013,Cereal yield (kg per hectare),AG.YLD.CREL.KG,771.9
+"Congo, Dem. Rep.",COD,2012,Cereal yield (kg per hectare),AG.YLD.CREL.KG,771.5
+"Congo, Dem. Rep.",COD,2011,Cereal yield (kg per hectare),AG.YLD.CREL.KG,771.3
+"Congo, Dem. Rep.",COD,2010,Cereal yield (kg per hectare),AG.YLD.CREL.KG,771.7
+"Congo, Dem. Rep.",COD,2009,Cereal yield (kg per hectare),AG.YLD.CREL.KG,771.6
+"Congo, Dem. Rep.",COD,2008,Cereal yield (kg per hectare),AG.YLD.CREL.KG,771.6
+"Congo, Dem. Rep.",COD,2007,Cereal yield (kg per hectare),AG.YLD.CREL.KG,771.6
+"Congo, Dem. Rep.",COD,2006,Cereal yield (kg per hectare),AG.YLD.CREL.KG,771.6
+"Congo, Dem. Rep.",COD,2005,Cereal yield (kg per hectare),AG.YLD.CREL.KG,771.7
+"Congo, Dem. Rep.",COD,2004,Cereal yield (kg per hectare),AG.YLD.CREL.KG,771.7
+"Congo, Dem. Rep.",COD,2003,Cereal yield (kg per hectare),AG.YLD.CREL.KG,771.5
+"Congo, Dem. Rep.",COD,2002,Cereal yield (kg per hectare),AG.YLD.CREL.KG,772
+"Congo, Dem. Rep.",COD,2001,Cereal yield (kg per hectare),AG.YLD.CREL.KG,786.6
+"Congo, Dem. Rep.",COD,2000,Cereal yield (kg per hectare),AG.YLD.CREL.KG,786.6
+"Congo, Dem. Rep.",COD,1999,Cereal yield (kg per hectare),AG.YLD.CREL.KG,787.3
+"Congo, Dem. Rep.",COD,1998,Cereal yield (kg per hectare),AG.YLD.CREL.KG,811
+"Congo, Dem. Rep.",COD,1997,Cereal yield (kg per hectare),AG.YLD.CREL.KG,801.7
+"Congo, Dem. Rep.",COD,1996,Cereal yield (kg per hectare),AG.YLD.CREL.KG,780.9
+"Congo, Dem. Rep.",COD,1995,Cereal yield (kg per hectare),AG.YLD.CREL.KG,765.8
+"Congo, Dem. Rep.",COD,1994,Cereal yield (kg per hectare),AG.YLD.CREL.KG,793.4
+"Congo, Dem. Rep.",COD,1993,Cereal yield (kg per hectare),AG.YLD.CREL.KG,790.6
+"Congo, Dem. Rep.",COD,1992,Cereal yield (kg per hectare),AG.YLD.CREL.KG,782.2
+"Congo, Dem. Rep.",COD,1991,Cereal yield (kg per hectare),AG.YLD.CREL.KG,802.4
+"Congo, Dem. Rep.",COD,1990,Cereal yield (kg per hectare),AG.YLD.CREL.KG,799.8
+"Congo, Dem. Rep.",COD,1989,Cereal yield (kg per hectare),AG.YLD.CREL.KG,802
+"Congo, Dem. Rep.",COD,1988,Cereal yield (kg per hectare),AG.YLD.CREL.KG,797.9
+"Congo, Dem. Rep.",COD,1987,Cereal yield (kg per hectare),AG.YLD.CREL.KG,821.8
+"Congo, Dem. Rep.",COD,1986,Cereal yield (kg per hectare),AG.YLD.CREL.KG,789.9
+"Congo, Dem. Rep.",COD,1985,Cereal yield (kg per hectare),AG.YLD.CREL.KG,799.6
+"Congo, Dem. Rep.",COD,1984,Cereal yield (kg per hectare),AG.YLD.CREL.KG,850.2
+"Congo, Dem. Rep.",COD,1983,Cereal yield (kg per hectare),AG.YLD.CREL.KG,833.5
+"Congo, Dem. Rep.",COD,1982,Cereal yield (kg per hectare),AG.YLD.CREL.KG,833.9
+"Congo, Dem. Rep.",COD,1981,Cereal yield (kg per hectare),AG.YLD.CREL.KG,822.5
+"Congo, Dem. Rep.",COD,1980,Cereal yield (kg per hectare),AG.YLD.CREL.KG,798.7
+"Congo, Dem. Rep.",COD,1979,Cereal yield (kg per hectare),AG.YLD.CREL.KG,799
+"Congo, Dem. Rep.",COD,1978,Cereal yield (kg per hectare),AG.YLD.CREL.KG,728.9
+"Congo, Dem. Rep.",COD,1977,Cereal yield (kg per hectare),AG.YLD.CREL.KG,739.2
+"Congo, Dem. Rep.",COD,1976,Cereal yield (kg per hectare),AG.YLD.CREL.KG,745.8
+"Congo, Dem. Rep.",COD,1975,Cereal yield (kg per hectare),AG.YLD.CREL.KG,747.7
+"Congo, Dem. Rep.",COD,1974,Cereal yield (kg per hectare),AG.YLD.CREL.KG,744
+"Congo, Dem. Rep.",COD,1973,Cereal yield (kg per hectare),AG.YLD.CREL.KG,741.1
+"Congo, Dem. Rep.",COD,1972,Cereal yield (kg per hectare),AG.YLD.CREL.KG,746.5
+"Congo, Dem. Rep.",COD,1971,Cereal yield (kg per hectare),AG.YLD.CREL.KG,725.4
+"Congo, Dem. Rep.",COD,1970,Cereal yield (kg per hectare),AG.YLD.CREL.KG,727.1
+"Congo, Dem. Rep.",COD,1969,Cereal yield (kg per hectare),AG.YLD.CREL.KG,710.8
+"Congo, Dem. Rep.",COD,1968,Cereal yield (kg per hectare),AG.YLD.CREL.KG,710.5
+"Congo, Dem. Rep.",COD,1967,Cereal yield (kg per hectare),AG.YLD.CREL.KG,699.8
+"Congo, Dem. Rep.",COD,1966,Cereal yield (kg per hectare),AG.YLD.CREL.KG,695.1
+"Congo, Dem. Rep.",COD,1965,Cereal yield (kg per hectare),AG.YLD.CREL.KG,646
+"Congo, Dem. Rep.",COD,1964,Cereal yield (kg per hectare),AG.YLD.CREL.KG,692.1
+"Congo, Dem. Rep.",COD,1963,Cereal yield (kg per hectare),AG.YLD.CREL.KG,692
+"Congo, Dem. Rep.",COD,1962,Cereal yield (kg per hectare),AG.YLD.CREL.KG,700.8
+"Congo, Dem. Rep.",COD,1961,Cereal yield (kg per hectare),AG.YLD.CREL.KG,699.2
+"Congo, Dem. Rep.",COD,2019,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2.680504415
+"Congo, Dem. Rep.",COD,2018,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,3.005601638
+"Congo, Dem. Rep.",COD,2017,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2.756443254
+"Congo, Dem. Rep.",COD,2016,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2.510784143
+"Congo, Dem. Rep.",COD,2015,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,3.074342219
+"Congo, Dem. Rep.",COD,2014,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,4.176029605
+"Congo, Dem. Rep.",COD,2013,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,5.194611572
+"Congo, Dem. Rep.",COD,2012,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,9.866868697
+"Congo, Dem. Rep.",COD,2011,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,6.176624593
+"Congo, Dem. Rep.",COD,2010,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,12.71601409
+"Congo, Dem. Rep.",COD,2009,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,-1.304135197
+"Congo, Dem. Rep.",COD,2008,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,8.726273415
+"Congo, Dem. Rep.",COD,2007,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,10.80236746
+"Congo, Dem. Rep.",COD,2006,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,1.772085029
+"Congo, Dem. Rep.",COD,2005,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,1.504452594
+"Congo, Dem. Rep.",COD,2004,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,3.972162861
+"Congo, Dem. Rep.",COD,2003,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,4.377642382
+"Congo, Dem. Rep.",COD,2002,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2.149379762
+"Congo, Dem. Rep.",COD,2001,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,1.37428477
+"Congo, Dem. Rep.",COD,2000,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.493452282
+"Congo, Dem. Rep.",COD,1999,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.236879335
+"Congo, Dem. Rep.",COD,1998,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.986692329
+"Congo, Dem. Rep.",COD,1997,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,-0.728116134
+"Congo, Dem. Rep.",COD,1996,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.429485652
+"Congo, Dem. Rep.",COD,1995,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,-0.395782977
+"Congo, Dem. Rep.",COD,1994,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,-0.025682603
+"Congo, Dem. Rep.",COD,1993,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.064168148
+"Congo, Dem. Rep.",COD,1992,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,-0.008873006
+"Congo, Dem. Rep.",COD,1991,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.1286082
+"Congo, Dem. Rep.",COD,1990,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,-0.1546563
+"Congo, Dem. Rep.",COD,1989,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,-0.067724373
+"Congo, Dem. Rep.",COD,1988,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,-0.044463002
+"Congo, Dem. Rep.",COD,1987,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,-0.718907498
+"Congo, Dem. Rep.",COD,1986,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.06855773
+"Congo, Dem. Rep.",COD,1985,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.961634332
+"Congo, Dem. Rep.",COD,1984,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,-0.412969182
+"Congo, Dem. Rep.",COD,1983,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,-1.751567485
+"Congo, Dem. Rep.",COD,1982,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,-0.017360517
+"Congo, Dem. Rep.",COD,1981,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.555359658
+"Congo, Dem. Rep.",COD,1980,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.76151825
+"Congo, Dem. Rep.",COD,1979,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.954645402
+"Congo, Dem. Rep.",COD,1978,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.635415929
+"Congo, Dem. Rep.",COD,1977,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.14735397
+"Congo, Dem. Rep.",COD,1976,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,2.471140005
+"Congo, Dem. Rep.",COD,1975,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.089085614
+"Congo, Dem. Rep.",COD,1974,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.541629839
+"Congo, Dem. Rep.",COD,1973,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.22515198
+"Congo, Dem. Rep.",COD,1972,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.169590007
+"Congo, Dem. Rep.",COD,1971,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.102595811
+"Congo, Dem. Rep.",COD,1970,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS,0.131824833
+"Congo, Dem. Rep.",COD,2019,Access to electricity (% of population),EG.ELC.ACCS.ZS,19.1
+"Congo, Dem. Rep.",COD,2018,Access to electricity (% of population),EG.ELC.ACCS.ZS,18.75225258
+"Congo, Dem. Rep.",COD,2017,Access to electricity (% of population),EG.ELC.ACCS.ZS,18.0063858
+"Congo, Dem. Rep.",COD,2016,Access to electricity (% of population),EG.ELC.ACCS.ZS,17.20158195
+"Congo, Dem. Rep.",COD,2015,Access to electricity (% of population),EG.ELC.ACCS.ZS,16.43629265
+"Congo, Dem. Rep.",COD,2014,Access to electricity (% of population),EG.ELC.ACCS.ZS,13.5
+"Congo, Dem. Rep.",COD,2013,Access to electricity (% of population),EG.ELC.ACCS.ZS,14.94590092
+"Congo, Dem. Rep.",COD,2012,Access to electricity (% of population),EG.ELC.ACCS.ZS,15.4
+"Congo, Dem. Rep.",COD,2011,Access to electricity (% of population),EG.ELC.ACCS.ZS,13.53587914
+"Congo, Dem. Rep.",COD,2010,Access to electricity (% of population),EG.ELC.ACCS.ZS,12.86934471
+"Congo, Dem. Rep.",COD,2009,Access to electricity (% of population),EG.ELC.ACCS.ZS,12.22470379
+"Congo, Dem. Rep.",COD,2008,Access to electricity (% of population),EG.ELC.ACCS.ZS,11.59572029
+"Congo, Dem. Rep.",COD,2007,Access to electricity (% of population),EG.ELC.ACCS.ZS,15.2
+"Congo, Dem. Rep.",COD,2006,Access to electricity (% of population),EG.ELC.ACCS.ZS,10.35978127
+"Congo, Dem. Rep.",COD,2005,Access to electricity (% of population),EG.ELC.ACCS.ZS,6
+"Congo, Dem. Rep.",COD,2004,Access to electricity (% of population),EG.ELC.ACCS.ZS,9.111793518
+"Congo, Dem. Rep.",COD,2003,Access to electricity (% of population),EG.ELC.ACCS.ZS,8.471570015
+"Congo, Dem. Rep.",COD,2002,Access to electricity (% of population),EG.ELC.ACCS.ZS,7.820706367
+"Congo, Dem. Rep.",COD,2001,Access to electricity (% of population),EG.ELC.ACCS.ZS,7.160378456
+"Congo, Dem. Rep.",COD,2000,Access to electricity (% of population),EG.ELC.ACCS.ZS,6.7
+"Congo, Dem. Rep.",COD,2015,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,95.81769971
+"Congo, Dem. Rep.",COD,2014,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,92.87131108
+"Congo, Dem. Rep.",COD,2013,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,94.01274826
+"Congo, Dem. Rep.",COD,2012,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,95.52836866
+"Congo, Dem. Rep.",COD,2011,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,96.24517537
+"Congo, Dem. Rep.",COD,2010,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,96.82782153
+"Congo, Dem. Rep.",COD,2009,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,97.01889107
+"Congo, Dem. Rep.",COD,2008,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,96.96544148
+"Congo, Dem. Rep.",COD,2007,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,97.17172342
+"Congo, Dem. Rep.",COD,2006,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,97.33286455
+"Congo, Dem. Rep.",COD,2005,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,97.42185918
+"Congo, Dem. Rep.",COD,2004,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,97.88228238
+"Congo, Dem. Rep.",COD,2003,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,97.9716731
+"Congo, Dem. Rep.",COD,2002,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,98.2700355
+"Congo, Dem. Rep.",COD,2001,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,98.34260209
+"Congo, Dem. Rep.",COD,2000,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,97.93995991
+"Congo, Dem. Rep.",COD,1999,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,96.99702559
+"Congo, Dem. Rep.",COD,1998,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,96.84997164
+"Congo, Dem. Rep.",COD,1997,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,97.05855877
+"Congo, Dem. Rep.",COD,1996,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,96.96158323
+"Congo, Dem. Rep.",COD,1995,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,96.89567523
+"Congo, Dem. Rep.",COD,1994,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,96.60913014
+"Congo, Dem. Rep.",COD,1993,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,96.11327319
+"Congo, Dem. Rep.",COD,1992,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,95.87523399
+"Congo, Dem. Rep.",COD,1991,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,95.13881223
+"Congo, Dem. Rep.",COD,1990,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,92.04773164
+"Congo, Dem. Rep.",COD,2014,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,0.166782602
+"Congo, Dem. Rep.",COD,2013,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,0.13279867
+"Congo, Dem. Rep.",COD,2012,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,0.092914277
+"Congo, Dem. Rep.",COD,2011,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,0.119550008
+"Congo, Dem. Rep.",COD,2010,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,0.10378766
+"Congo, Dem. Rep.",COD,2009,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,0.100294904
+"Congo, Dem. Rep.",COD,2008,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,0.100614421
+"Congo, Dem. Rep.",COD,2007,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,0.097634206
+"Congo, Dem. Rep.",COD,2006,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,0.092514416
+"Congo, Dem. Rep.",COD,2005,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,0.089417193
+"Congo, Dem. Rep.",COD,2004,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,0.072929544
+"Congo, Dem. Rep.",COD,2003,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,0.069355185
+"Congo, Dem. Rep.",COD,2002,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,0.059166979
+"Congo, Dem. Rep.",COD,2001,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,0.054961339
+"Congo, Dem. Rep.",COD,2000,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,0.066154777
+"Congo, Dem. Rep.",COD,1999,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,0.095014551
+"Congo, Dem. Rep.",COD,1998,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,0.096126611
+"Congo, Dem. Rep.",COD,1997,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,0.088854242
+"Congo, Dem. Rep.",COD,1996,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,0.094183413
+"Congo, Dem. Rep.",COD,1995,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,0.096605192
+"Congo, Dem. Rep.",COD,1994,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,0.103949657
+"Congo, Dem. Rep.",COD,1993,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,0.116550611
+"Congo, Dem. Rep.",COD,1992,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,0.123039945
+"Congo, Dem. Rep.",COD,1991,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,0.147300216
+"Congo, Dem. Rep.",COD,1990,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,0.269529511
+"Congo, Dem. Rep.",COD,1989,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,0.3910513
+"Congo, Dem. Rep.",COD,1988,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,0.366877145
+"Congo, Dem. Rep.",COD,1987,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,0.364815732
+"Congo, Dem. Rep.",COD,1986,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,0.33267992
+"Congo, Dem. Rep.",COD,1985,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,0.365850843
+"Congo, Dem. Rep.",COD,1984,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,0.398215296
+"Congo, Dem. Rep.",COD,1983,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,0.425045734
+"Congo, Dem. Rep.",COD,1982,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,0.34552287
+"Congo, Dem. Rep.",COD,1981,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,0.425304001
+"Congo, Dem. Rep.",COD,1980,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,0.413649622
+"Congo, Dem. Rep.",COD,1979,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,0.447330598
+"Congo, Dem. Rep.",COD,1978,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,0.439983354
+"Congo, Dem. Rep.",COD,1977,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,0.445690113
+"Congo, Dem. Rep.",COD,1976,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,0.450000567
+"Congo, Dem. Rep.",COD,1975,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,0.433412664
+"Congo, Dem. Rep.",COD,1974,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,0.462650299
+"Congo, Dem. Rep.",COD,1973,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,0.450439749
+"Congo, Dem. Rep.",COD,1972,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,0.441013119
+"Congo, Dem. Rep.",COD,1971,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS,0.443624154
+"Congo, Dem. Rep.",COD,2016,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+"Congo, Dem. Rep.",COD,2015,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,3.667
+"Congo, Dem. Rep.",COD,2014,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,3.667
+"Congo, Dem. Rep.",COD,2013,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+"Congo, Dem. Rep.",COD,2012,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+"Congo, Dem. Rep.",COD,2011,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,44.004
+"Congo, Dem. Rep.",COD,2010,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,44.004
+"Congo, Dem. Rep.",COD,2009,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,44.004
+"Congo, Dem. Rep.",COD,2008,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,44.004
+"Congo, Dem. Rep.",COD,2007,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,44.004
+"Congo, Dem. Rep.",COD,2006,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,22.002
+"Congo, Dem. Rep.",COD,2005,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+"Congo, Dem. Rep.",COD,2004,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+"Congo, Dem. Rep.",COD,2003,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+"Congo, Dem. Rep.",COD,2002,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+"Congo, Dem. Rep.",COD,2001,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+"Congo, Dem. Rep.",COD,2000,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+"Congo, Dem. Rep.",COD,1999,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+"Congo, Dem. Rep.",COD,1998,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+"Congo, Dem. Rep.",COD,1997,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+"Congo, Dem. Rep.",COD,1996,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+"Congo, Dem. Rep.",COD,1995,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+"Congo, Dem. Rep.",COD,1994,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+"Congo, Dem. Rep.",COD,1993,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+"Congo, Dem. Rep.",COD,1992,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+"Congo, Dem. Rep.",COD,1991,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+"Congo, Dem. Rep.",COD,1990,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+"Congo, Dem. Rep.",COD,1989,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+"Congo, Dem. Rep.",COD,1988,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+"Congo, Dem. Rep.",COD,1987,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+"Congo, Dem. Rep.",COD,1986,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+"Congo, Dem. Rep.",COD,1985,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+"Congo, Dem. Rep.",COD,1984,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+"Congo, Dem. Rep.",COD,1983,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+"Congo, Dem. Rep.",COD,1982,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+"Congo, Dem. Rep.",COD,1981,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+"Congo, Dem. Rep.",COD,1980,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+"Congo, Dem. Rep.",COD,1979,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+"Congo, Dem. Rep.",COD,1978,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+"Congo, Dem. Rep.",COD,1977,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+"Congo, Dem. Rep.",COD,1976,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+"Congo, Dem. Rep.",COD,1975,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+"Congo, Dem. Rep.",COD,1974,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+"Congo, Dem. Rep.",COD,1973,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+"Congo, Dem. Rep.",COD,1972,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+"Congo, Dem. Rep.",COD,1971,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+"Congo, Dem. Rep.",COD,1970,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+"Congo, Dem. Rep.",COD,1969,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+"Congo, Dem. Rep.",COD,1968,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+"Congo, Dem. Rep.",COD,1967,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+"Congo, Dem. Rep.",COD,1966,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+"Congo, Dem. Rep.",COD,1965,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+"Congo, Dem. Rep.",COD,1964,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+"Congo, Dem. Rep.",COD,1963,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+"Congo, Dem. Rep.",COD,1962,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+"Congo, Dem. Rep.",COD,1961,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+"Congo, Dem. Rep.",COD,1960,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT,0
+"Congo, Dem. Rep.",COD,2016,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+"Congo, Dem. Rep.",COD,2015,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0.126885813
+"Congo, Dem. Rep.",COD,2014,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0.076555324
+"Congo, Dem. Rep.",COD,2013,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+"Congo, Dem. Rep.",COD,2012,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+"Congo, Dem. Rep.",COD,2011,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,1.746190476
+"Congo, Dem. Rep.",COD,2010,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,2.136116505
+"Congo, Dem. Rep.",COD,2009,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,2.291875
+"Congo, Dem. Rep.",COD,2008,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,2.35315508
+"Congo, Dem. Rep.",COD,2007,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,2.514514286
+"Congo, Dem. Rep.",COD,2006,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,1.375125
+"Congo, Dem. Rep.",COD,2005,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+"Congo, Dem. Rep.",COD,2004,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+"Congo, Dem. Rep.",COD,2003,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+"Congo, Dem. Rep.",COD,2002,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+"Congo, Dem. Rep.",COD,2001,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+"Congo, Dem. Rep.",COD,2000,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+"Congo, Dem. Rep.",COD,1999,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+"Congo, Dem. Rep.",COD,1998,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+"Congo, Dem. Rep.",COD,1997,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+"Congo, Dem. Rep.",COD,1996,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+"Congo, Dem. Rep.",COD,1995,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+"Congo, Dem. Rep.",COD,1994,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+"Congo, Dem. Rep.",COD,1993,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+"Congo, Dem. Rep.",COD,1992,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+"Congo, Dem. Rep.",COD,1991,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+"Congo, Dem. Rep.",COD,1990,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+"Congo, Dem. Rep.",COD,1989,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+"Congo, Dem. Rep.",COD,1988,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+"Congo, Dem. Rep.",COD,1987,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+"Congo, Dem. Rep.",COD,1986,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+"Congo, Dem. Rep.",COD,1985,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+"Congo, Dem. Rep.",COD,1984,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+"Congo, Dem. Rep.",COD,1983,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+"Congo, Dem. Rep.",COD,1982,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+"Congo, Dem. Rep.",COD,1981,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+"Congo, Dem. Rep.",COD,1980,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+"Congo, Dem. Rep.",COD,1979,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+"Congo, Dem. Rep.",COD,1978,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+"Congo, Dem. Rep.",COD,1977,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+"Congo, Dem. Rep.",COD,1976,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+"Congo, Dem. Rep.",COD,1975,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+"Congo, Dem. Rep.",COD,1974,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+"Congo, Dem. Rep.",COD,1973,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+"Congo, Dem. Rep.",COD,1972,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+"Congo, Dem. Rep.",COD,1971,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+"Congo, Dem. Rep.",COD,1970,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+"Congo, Dem. Rep.",COD,1969,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+"Congo, Dem. Rep.",COD,1968,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+"Congo, Dem. Rep.",COD,1967,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+"Congo, Dem. Rep.",COD,1966,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+"Congo, Dem. Rep.",COD,1965,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+"Congo, Dem. Rep.",COD,1964,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+"Congo, Dem. Rep.",COD,1963,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+"Congo, Dem. Rep.",COD,1962,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+"Congo, Dem. Rep.",COD,1961,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+"Congo, Dem. Rep.",COD,1960,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+"Congo, Dem. Rep.",COD,2018,CO2 emissions (kg per 2010 US$ of GDP),EN.ATM.CO2E.KD.GD,0.062458143
+"Congo, Dem. Rep.",COD,2017,CO2 emissions (kg per 2010 US$ of GDP),EN.ATM.CO2E.KD.GD,0.068497322
+"Congo, Dem. Rep.",COD,2016,CO2 emissions (kg per 2010 US$ of GDP),EN.ATM.CO2E.KD.GD,0.064194462
+"Congo, Dem. Rep.",COD,2015,CO2 emissions (kg per 2010 US$ of GDP),EN.ATM.CO2E.KD.GD,0.092220083
+"Congo, Dem. Rep.",COD,2014,CO2 emissions (kg per 2010 US$ of GDP),EN.ATM.CO2E.KD.GD,0.163420542
+"Congo, Dem. Rep.",COD,2013,CO2 emissions (kg per 2010 US$ of GDP),EN.ATM.CO2E.KD.GD,0.136320214
+"Congo, Dem. Rep.",COD,2012,CO2 emissions (kg per 2010 US$ of GDP),EN.ATM.CO2E.KD.GD,0.098453504
+"Congo, Dem. Rep.",COD,2011,CO2 emissions (kg per 2010 US$ of GDP),EN.ATM.CO2E.KD.GD,0.109335649
+"Congo, Dem. Rep.",COD,2010,CO2 emissions (kg per 2010 US$ of GDP),EN.ATM.CO2E.KD.GD,0.095521967
+"Congo, Dem. Rep.",COD,2009,CO2 emissions (kg per 2010 US$ of GDP),EN.ATM.CO2E.KD.GD,0.095358427
+"Congo, Dem. Rep.",COD,2008,CO2 emissions (kg per 2010 US$ of GDP),EN.ATM.CO2E.KD.GD,0.09552678
+"Congo, Dem. Rep.",COD,2007,CO2 emissions (kg per 2010 US$ of GDP),EN.ATM.CO2E.KD.GD,0.094962464
+"Congo, Dem. Rep.",COD,2006,CO2 emissions (kg per 2010 US$ of GDP),EN.ATM.CO2E.KD.GD,0.09225748
+"Congo, Dem. Rep.",COD,2005,CO2 emissions (kg per 2010 US$ of GDP),EN.ATM.CO2E.KD.GD,0.090486286
+"Congo, Dem. Rep.",COD,2004,CO2 emissions (kg per 2010 US$ of GDP),EN.ATM.CO2E.KD.GD,0.075412198
+"Congo, Dem. Rep.",COD,2003,CO2 emissions (kg per 2010 US$ of GDP),EN.ATM.CO2E.KD.GD,0.073613946
+"Congo, Dem. Rep.",COD,2002,CO2 emissions (kg per 2010 US$ of GDP),EN.ATM.CO2E.KD.GD,0.063919253
+"Congo, Dem. Rep.",COD,2001,CO2 emissions (kg per 2010 US$ of GDP),EN.ATM.CO2E.KD.GD,0.059073545
+"Congo, Dem. Rep.",COD,2000,CO2 emissions (kg per 2010 US$ of GDP),EN.ATM.CO2E.KD.GD,0.067349704
+"Congo, Dem. Rep.",COD,1999,CO2 emissions (kg per 2010 US$ of GDP),EN.ATM.CO2E.KD.GD,0.089954004
+"Congo, Dem. Rep.",COD,1998,CO2 emissions (kg per 2010 US$ of GDP),EN.ATM.CO2E.KD.GD,0.086765212
+"Congo, Dem. Rep.",COD,1997,CO2 emissions (kg per 2010 US$ of GDP),EN.ATM.CO2E.KD.GD,0.077012942
+"Congo, Dem. Rep.",COD,1996,CO2 emissions (kg per 2010 US$ of GDP),EN.ATM.CO2E.KD.GD,0.075715718
+"Congo, Dem. Rep.",COD,1995,CO2 emissions (kg per 2010 US$ of GDP),EN.ATM.CO2E.KD.GD,0.074341488
+"Congo, Dem. Rep.",COD,1994,CO2 emissions (kg per 2010 US$ of GDP),EN.ATM.CO2E.KD.GD,0.077276776
+"Congo, Dem. Rep.",COD,1993,CO2 emissions (kg per 2010 US$ of GDP),EN.ATM.CO2E.KD.GD,0.082965678
+"Congo, Dem. Rep.",COD,1992,CO2 emissions (kg per 2010 US$ of GDP),EN.ATM.CO2E.KD.GD,0.074301163
+"Congo, Dem. Rep.",COD,1991,CO2 emissions (kg per 2010 US$ of GDP),EN.ATM.CO2E.KD.GD,0.078181886
+"Congo, Dem. Rep.",COD,1990,CO2 emissions (kg per 2010 US$ of GDP),EN.ATM.CO2E.KD.GD,0.130851789
+"Congo, Dem. Rep.",COD,1989,CO2 emissions (kg per 2010 US$ of GDP),EN.ATM.CO2E.KD.GD,0.168894098
+"Congo, Dem. Rep.",COD,1988,CO2 emissions (kg per 2010 US$ of GDP),EN.ATM.CO2E.KD.GD,0.152557906
+"Congo, Dem. Rep.",COD,1987,CO2 emissions (kg per 2010 US$ of GDP),EN.ATM.CO2E.KD.GD,0.146982264
+"Congo, Dem. Rep.",COD,1986,CO2 emissions (kg per 2010 US$ of GDP),EN.ATM.CO2E.KD.GD,0.132248049
+"Congo, Dem. Rep.",COD,1985,CO2 emissions (kg per 2010 US$ of GDP),EN.ATM.CO2E.KD.GD,0.149312771
+"Congo, Dem. Rep.",COD,1984,CO2 emissions (kg per 2010 US$ of GDP),EN.ATM.CO2E.KD.GD,0.163305388
+"Congo, Dem. Rep.",COD,1983,CO2 emissions (kg per 2010 US$ of GDP),EN.ATM.CO2E.KD.GD,0.175064734
+"Congo, Dem. Rep.",COD,1982,CO2 emissions (kg per 2010 US$ of GDP),EN.ATM.CO2E.KD.GD,0.135496609
+"Congo, Dem. Rep.",COD,1981,CO2 emissions (kg per 2010 US$ of GDP),EN.ATM.CO2E.KD.GD,0.165778956
+"Congo, Dem. Rep.",COD,1980,CO2 emissions (kg per 2010 US$ of GDP),EN.ATM.CO2E.KD.GD,0.157320609
+"Congo, Dem. Rep.",COD,1979,CO2 emissions (kg per 2010 US$ of GDP),EN.ATM.CO2E.KD.GD,0.172389766
+"Congo, Dem. Rep.",COD,1978,CO2 emissions (kg per 2010 US$ of GDP),EN.ATM.CO2E.KD.GD,0.163155862
+"Congo, Dem. Rep.",COD,1977,CO2 emissions (kg per 2010 US$ of GDP),EN.ATM.CO2E.KD.GD,0.152194202
+"Congo, Dem. Rep.",COD,1976,CO2 emissions (kg per 2010 US$ of GDP),EN.ATM.CO2E.KD.GD,0.150127016
+"Congo, Dem. Rep.",COD,1975,CO2 emissions (kg per 2010 US$ of GDP),EN.ATM.CO2E.KD.GD,0.134827527
+"Congo, Dem. Rep.",COD,1974,CO2 emissions (kg per 2010 US$ of GDP),EN.ATM.CO2E.KD.GD,0.133334012
+"Congo, Dem. Rep.",COD,1973,CO2 emissions (kg per 2010 US$ of GDP),EN.ATM.CO2E.KD.GD,0.130326003
+"Congo, Dem. Rep.",COD,1972,CO2 emissions (kg per 2010 US$ of GDP),EN.ATM.CO2E.KD.GD,0.133326217
+"Congo, Dem. Rep.",COD,1971,CO2 emissions (kg per 2010 US$ of GDP),EN.ATM.CO2E.KD.GD,0.130934949
+"Congo, Dem. Rep.",COD,1970,CO2 emissions (kg per 2010 US$ of GDP),EN.ATM.CO2E.KD.GD,0.127116629
+"Congo, Dem. Rep.",COD,1969,CO2 emissions (kg per 2010 US$ of GDP),EN.ATM.CO2E.KD.GD,0.170672839
+"Congo, Dem. Rep.",COD,1968,CO2 emissions (kg per 2010 US$ of GDP),EN.ATM.CO2E.KD.GD,0.172169142
+"Congo, Dem. Rep.",COD,1967,CO2 emissions (kg per 2010 US$ of GDP),EN.ATM.CO2E.KD.GD,0.122163161
+"Congo, Dem. Rep.",COD,1966,CO2 emissions (kg per 2010 US$ of GDP),EN.ATM.CO2E.KD.GD,0.126958515
+"Congo, Dem. Rep.",COD,1965,CO2 emissions (kg per 2010 US$ of GDP),EN.ATM.CO2E.KD.GD,0.139280221
+"Congo, Dem. Rep.",COD,1964,CO2 emissions (kg per 2010 US$ of GDP),EN.ATM.CO2E.KD.GD,0.112493723
+"Congo, Dem. Rep.",COD,1963,CO2 emissions (kg per 2010 US$ of GDP),EN.ATM.CO2E.KD.GD,0.127463152
+"Congo, Dem. Rep.",COD,1962,CO2 emissions (kg per 2010 US$ of GDP),EN.ATM.CO2E.KD.GD,0.127039421
+"Congo, Dem. Rep.",COD,1961,CO2 emissions (kg per 2010 US$ of GDP),EN.ATM.CO2E.KD.GD,0.166955182
+"Congo, Dem. Rep.",COD,1960,CO2 emissions (kg per 2010 US$ of GDP),EN.ATM.CO2E.KD.GD,0.1465235
+"Congo, Dem. Rep.",COD,2018,CO2 emissions (kt),EN.ATM.CO2E.KT,2200
+"Congo, Dem. Rep.",COD,2017,CO2 emissions (kt),EN.ATM.CO2E.KT,2280
+"Congo, Dem. Rep.",COD,2016,CO2 emissions (kt),EN.ATM.CO2E.KT,2060
+"Congo, Dem. Rep.",COD,2015,CO2 emissions (kt),EN.ATM.CO2E.KT,2890
+"Congo, Dem. Rep.",COD,2014,CO2 emissions (kt),EN.ATM.CO2E.KT,4790
+"Congo, Dem. Rep.",COD,2013,CO2 emissions (kt),EN.ATM.CO2E.KT,3650
+"Congo, Dem. Rep.",COD,2012,CO2 emissions (kt),EN.ATM.CO2E.KT,2430
+"Congo, Dem. Rep.",COD,2011,CO2 emissions (kt),EN.ATM.CO2E.KT,2520
+"Congo, Dem. Rep.",COD,2010,CO2 emissions (kt),EN.ATM.CO2E.KT,2060
+"Congo, Dem. Rep.",COD,2009,CO2 emissions (kt),EN.ATM.CO2E.KT,1920
+"Congo, Dem. Rep.",COD,2008,CO2 emissions (kt),EN.ATM.CO2E.KT,1870
+"Congo, Dem. Rep.",COD,2007,CO2 emissions (kt),EN.ATM.CO2E.KT,1750
+"Congo, Dem. Rep.",COD,2006,CO2 emissions (kt),EN.ATM.CO2E.KT,1600
+"Congo, Dem. Rep.",COD,2005,CO2 emissions (kt),EN.ATM.CO2E.KT,1490
+"Congo, Dem. Rep.",COD,2004,CO2 emissions (kt),EN.ATM.CO2E.KT,1170
+"Congo, Dem. Rep.",COD,2003,CO2 emissions (kt),EN.ATM.CO2E.KT,1070
+"Congo, Dem. Rep.",COD,2002,CO2 emissions (kt),EN.ATM.CO2E.KT,880
+"Congo, Dem. Rep.",COD,2001,CO2 emissions (kt),EN.ATM.CO2E.KT,790
+"Congo, Dem. Rep.",COD,2000,CO2 emissions (kt),EN.ATM.CO2E.KT,920
+"Congo, Dem. Rep.",COD,1999,CO2 emissions (kt),EN.ATM.CO2E.KT,1320
+"Congo, Dem. Rep.",COD,1998,CO2 emissions (kt),EN.ATM.CO2E.KT,1330
+"Congo, Dem. Rep.",COD,1997,CO2 emissions (kt),EN.ATM.CO2E.KT,1200
+"Congo, Dem. Rep.",COD,1996,CO2 emissions (kt),EN.ATM.CO2E.KT,1250
+"Congo, Dem. Rep.",COD,1995,CO2 emissions (kt),EN.ATM.CO2E.KT,1240
+"Congo, Dem. Rep.",COD,1994,CO2 emissions (kt),EN.ATM.CO2E.KT,1280
+"Congo, Dem. Rep.",COD,1993,CO2 emissions (kt),EN.ATM.CO2E.KT,1430
+"Congo, Dem. Rep.",COD,1992,CO2 emissions (kt),EN.ATM.CO2E.KT,1480
+"Congo, Dem. Rep.",COD,1991,CO2 emissions (kt),EN.ATM.CO2E.KT,1740
+"Congo, Dem. Rep.",COD,1990,CO2 emissions (kt),EN.ATM.CO2E.KT,3180
+"Congo, Dem. Rep.",COD,1989,CO2 emissions (kt),EN.ATM.CO2E.KT,4393.066
+"Congo, Dem. Rep.",COD,1988,CO2 emissions (kt),EN.ATM.CO2E.KT,4019.032
+"Congo, Dem. Rep.",COD,1987,CO2 emissions (kt),EN.ATM.CO2E.KT,3854.017
+"Congo, Dem. Rep.",COD,1986,CO2 emissions (kt),EN.ATM.CO2E.KT,3377.307
+"Congo, Dem. Rep.",COD,1985,CO2 emissions (kt),EN.ATM.CO2E.KT,3641.331
+"Congo, Dem. Rep.",COD,1984,CO2 emissions (kt),EN.ATM.CO2E.KT,3964.027
+"Congo, Dem. Rep.",COD,1983,CO2 emissions (kt),EN.ATM.CO2E.KT,4026.366
+"Congo, Dem. Rep.",COD,1982,CO2 emissions (kt),EN.ATM.CO2E.KT,3072.946
+"Congo, Dem. Rep.",COD,1981,CO2 emissions (kt),EN.ATM.CO2E.KT,3777.01
+"Congo, Dem. Rep.",COD,1980,CO2 emissions (kt),EN.ATM.CO2E.KT,3501.985
+"Congo, Dem. Rep.",COD,1979,CO2 emissions (kt),EN.ATM.CO2E.KT,3755.008
+"Congo, Dem. Rep.",COD,1978,CO2 emissions (kt),EN.ATM.CO2E.KT,3538.655
+"Congo, Dem. Rep.",COD,1977,CO2 emissions (kt),EN.ATM.CO2E.KT,3487.317
+"Congo, Dem. Rep.",COD,1976,CO2 emissions (kt),EN.ATM.CO2E.KT,3413.977
+"Congo, Dem. Rep.",COD,1975,CO2 emissions (kt),EN.ATM.CO2E.KT,3237.961
+"Congo, Dem. Rep.",COD,1974,CO2 emissions (kt),EN.ATM.CO2E.KT,3369.973
+"Congo, Dem. Rep.",COD,1973,CO2 emissions (kt),EN.ATM.CO2E.KT,3193.957
+"Congo, Dem. Rep.",COD,1972,CO2 emissions (kt),EN.ATM.CO2E.KT,3021.608
+"Congo, Dem. Rep.",COD,1971,CO2 emissions (kt),EN.ATM.CO2E.KT,2962.936
+"Congo, Dem. Rep.",COD,1970,CO2 emissions (kt),EN.ATM.CO2E.KT,2713.58
+"Congo, Dem. Rep.",COD,1969,CO2 emissions (kt),EN.ATM.CO2E.KT,3652.332
+"Congo, Dem. Rep.",COD,1968,CO2 emissions (kt),EN.ATM.CO2E.KT,3369.973
+"Congo, Dem. Rep.",COD,1967,CO2 emissions (kt),EN.ATM.CO2E.KT,2291.875
+"Congo, Dem. Rep.",COD,1966,CO2 emissions (kt),EN.ATM.CO2E.KT,2405.552
+"Congo, Dem. Rep.",COD,1965,CO2 emissions (kt),EN.ATM.CO2E.KT,2471.558
+"Congo, Dem. Rep.",COD,1964,CO2 emissions (kt),EN.ATM.CO2E.KT,1976.513
+"Congo, Dem. Rep.",COD,1963,CO2 emissions (kt),EN.ATM.CO2E.KT,2295.542
+"Congo, Dem. Rep.",COD,1962,CO2 emissions (kt),EN.ATM.CO2E.KT,2174.531
+"Congo, Dem. Rep.",COD,1961,CO2 emissions (kt),EN.ATM.CO2E.KT,2357.881
+"Congo, Dem. Rep.",COD,1960,CO2 emissions (kt),EN.ATM.CO2E.KT,2321.211
+"Congo, Dem. Rep.",COD,2016,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1914.174
+"Congo, Dem. Rep.",COD,2015,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2636.573
+"Congo, Dem. Rep.",COD,2014,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,4503.076
+"Congo, Dem. Rep.",COD,2013,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,3366.306
+"Congo, Dem. Rep.",COD,2012,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2200.2
+"Congo, Dem. Rep.",COD,2011,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2222.202
+"Congo, Dem. Rep.",COD,2010,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1727.157
+"Congo, Dem. Rep.",COD,2009,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1474.134
+"Congo, Dem. Rep.",COD,2008,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1609.813
+"Congo, Dem. Rep.",COD,2007,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1448.465
+"Congo, Dem. Rep.",COD,2006,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1327.454
+"Congo, Dem. Rep.",COD,2005,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1239.446
+"Congo, Dem. Rep.",COD,2004,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,990.09
+"Congo, Dem. Rep.",COD,2003,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,905.749
+"Congo, Dem. Rep.",COD,2002,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,744.401
+"Congo, Dem. Rep.",COD,2001,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,689.396
+"Congo, Dem. Rep.",COD,2000,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,825.075
+"Congo, Dem. Rep.",COD,1999,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1254.114
+"Congo, Dem. Rep.",COD,1998,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1602.479
+"Congo, Dem. Rep.",COD,1997,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1826.166
+"Congo, Dem. Rep.",COD,1996,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2214.868
+"Congo, Dem. Rep.",COD,1995,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2009.516
+"Congo, Dem. Rep.",COD,1994,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1631.815
+"Congo, Dem. Rep.",COD,1993,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2603.57
+"Congo, Dem. Rep.",COD,1992,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2739.249
+"Congo, Dem. Rep.",COD,1991,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,3032.609
+"Congo, Dem. Rep.",COD,1990,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,3171.955
+"Congo, Dem. Rep.",COD,1989,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,3322.302
+"Congo, Dem. Rep.",COD,1988,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2841.925
+"Congo, Dem. Rep.",COD,1987,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2757.584
+"Congo, Dem. Rep.",COD,1986,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2317.544
+"Congo, Dem. Rep.",COD,1985,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2596.236
+"Congo, Dem. Rep.",COD,1984,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2871.261
+"Congo, Dem. Rep.",COD,1983,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2962.936
+"Congo, Dem. Rep.",COD,1982,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1976.513
+"Congo, Dem. Rep.",COD,1981,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2669.576
+"Congo, Dem. Rep.",COD,1980,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2438.555
+"Congo, Dem. Rep.",COD,1979,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2783.253
+"Congo, Dem. Rep.",COD,1978,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2460.557
+"Congo, Dem. Rep.",COD,1977,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2354.214
+"Congo, Dem. Rep.",COD,1976,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2211.201
+"Congo, Dem. Rep.",COD,1975,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2255.205
+"Congo, Dem. Rep.",COD,1974,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2225.869
+"Congo, Dem. Rep.",COD,1973,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2097.524
+"Congo, Dem. Rep.",COD,1972,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1932.509
+"Congo, Dem. Rep.",COD,1971,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1859.169
+"Congo, Dem. Rep.",COD,1970,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1716.156
+"Congo, Dem. Rep.",COD,1969,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2603.57
+"Congo, Dem. Rep.",COD,1968,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2482.559
+"Congo, Dem. Rep.",COD,1967,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1195.442
+"Congo, Dem. Rep.",COD,1966,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1364.124
+"Congo, Dem. Rep.",COD,1965,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1169.773
+"Congo, Dem. Rep.",COD,1964,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,920.417
+"Congo, Dem. Rep.",COD,1963,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1353.123
+"Congo, Dem. Rep.",COD,1962,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1235.779
+"Congo, Dem. Rep.",COD,1961,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1232.112
+"Congo, Dem. Rep.",COD,1960,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1180.774
+"Congo, Dem. Rep.",COD,2016,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,92.92106796
+"Congo, Dem. Rep.",COD,2015,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,91.23089965
+"Congo, Dem. Rep.",COD,2014,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,94.00993737
+"Congo, Dem. Rep.",COD,2013,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,92.22756164
+"Congo, Dem. Rep.",COD,2012,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,90.54320988
+"Congo, Dem. Rep.",COD,2011,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,88.18261905
+"Congo, Dem. Rep.",COD,2010,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,83.84257282
+"Congo, Dem. Rep.",COD,2009,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,76.7778125
+"Congo, Dem. Rep.",COD,2008,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,86.08625668
+"Congo, Dem. Rep.",COD,2007,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,82.76942857
+"Congo, Dem. Rep.",COD,2006,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,82.965875
+"Congo, Dem. Rep.",COD,2005,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,83.1842953
+"Congo, Dem. Rep.",COD,2004,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,84.62307692
+"Congo, Dem. Rep.",COD,2003,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,84.64943925
+"Congo, Dem. Rep.",COD,2002,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,84.59102273
+"Congo, Dem. Rep.",COD,2001,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,87.26531646
+"Congo, Dem. Rep.",COD,2000,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,89.68206522
+"Congo, Dem. Rep.",COD,1999,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,95.00863636
+"Congo, Dem. Rep.",COD,1998,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,120.4871429
+"Congo, Dem. Rep.",COD,1997,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,152.1805
+"Congo, Dem. Rep.",COD,1996,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,177.18944
+"Congo, Dem. Rep.",COD,1995,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,162.0577419
+"Congo, Dem. Rep.",COD,1994,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,127.4855469
+"Congo, Dem. Rep.",COD,1993,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,182.0678322
+"Congo, Dem. Rep.",COD,1992,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,185.0843919
+"Congo, Dem. Rep.",COD,1991,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,174.2878736
+"Congo, Dem. Rep.",COD,1990,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,99.74701258
+"Congo, Dem. Rep.",COD,1989,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,75.62604341
+"Congo, Dem. Rep.",COD,1988,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,70.71167883
+"Congo, Dem. Rep.",COD,1987,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,71.5509039
+"Congo, Dem. Rep.",COD,1986,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,68.62106406
+"Congo, Dem. Rep.",COD,1985,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,71.29909366
+"Congo, Dem. Rep.",COD,1984,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,72.43293247
+"Congo, Dem. Rep.",COD,1983,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,73.58834244
+"Congo, Dem. Rep.",COD,1982,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,64.31980907
+"Congo, Dem. Rep.",COD,1981,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,70.67961165
+"Congo, Dem. Rep.",COD,1980,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,69.63350785
+"Congo, Dem. Rep.",COD,1979,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,74.12109375
+"Congo, Dem. Rep.",COD,1978,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,69.53367876
+"Congo, Dem. Rep.",COD,1977,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,67.50788644
+"Congo, Dem. Rep.",COD,1976,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,64.76906552
+"Congo, Dem. Rep.",COD,1975,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,69.64892412
+"Congo, Dem. Rep.",COD,1974,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,66.05005441
+"Congo, Dem. Rep.",COD,1973,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,65.67164179
+"Congo, Dem. Rep.",COD,1972,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,63.95631068
+"Congo, Dem. Rep.",COD,1971,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,62.74752475
+"Congo, Dem. Rep.",COD,1970,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,63.24324324
+"Congo, Dem. Rep.",COD,1969,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,71.28514056
+"Congo, Dem. Rep.",COD,1968,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,73.66702938
+"Congo, Dem. Rep.",COD,1967,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,52.16
+"Congo, Dem. Rep.",COD,1966,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,56.70731707
+"Congo, Dem. Rep.",COD,1965,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,47.32937685
+"Congo, Dem. Rep.",COD,1964,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,46.567718
+"Congo, Dem. Rep.",COD,1963,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,58.9456869
+"Congo, Dem. Rep.",COD,1962,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,56.8296796
+"Congo, Dem. Rep.",COD,1961,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,52.25505443
+"Congo, Dem. Rep.",COD,1960,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS,50.86887836
+"Congo, Dem. Rep.",COD,2018,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.026169263
+"Congo, Dem. Rep.",COD,2017,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.028010253
+"Congo, Dem. Rep.",COD,2016,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.026145739
+"Congo, Dem. Rep.",COD,2015,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.037904358
+"Congo, Dem. Rep.",COD,2014,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.064933793
+"Congo, Dem. Rep.",COD,2013,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.05114996
+"Congo, Dem. Rep.",COD,2012,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.035206804
+"Congo, Dem. Rep.",COD,2011,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.037749896
+"Congo, Dem. Rep.",COD,2010,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.031906398
+"Congo, Dem. Rep.",COD,2009,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.030745299
+"Congo, Dem. Rep.",COD,2008,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.030954528
+"Congo, Dem. Rep.",COD,2007,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.029938231
+"Congo, Dem. Rep.",COD,2006,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.02827952
+"Congo, Dem. Rep.",COD,2005,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.027196782
+"Congo, Dem. Rep.",COD,2004,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.022046824
+"Congo, Dem. Rep.",COD,2003,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.020806765
+"Congo, Dem. Rep.",COD,2002,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.017645288
+"Congo, Dem. Rep.",COD,2001,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.016312697
+"Congo, Dem. Rep.",COD,2000,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.019530491
+"Congo, Dem. Rep.",COD,1999,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.028745886
+"Congo, Dem. Rep.",COD,1998,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.029654425
+"Congo, Dem. Rep.",COD,1997,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.027380263
+"Congo, Dem. Rep.",COD,1996,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.029234816
+"Congo, Dem. Rep.",COD,1995,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.029824728
+"Congo, Dem. Rep.",COD,1994,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.031798893
+"Congo, Dem. Rep.",COD,1993,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.036840635
+"Congo, Dem. Rep.",COD,1992,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.039642237
+"Congo, Dem. Rep.",COD,1991,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.048456844
+"Congo, Dem. Rep.",COD,1990,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.091875589
+"Congo, Dem. Rep.",COD,1989,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.131274364
+"Congo, Dem. Rep.",COD,1988,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.123876796
+"Congo, Dem. Rep.",COD,1987,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.122238366
+"Congo, Dem. Rep.",COD,1986,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.110067805
+"Congo, Dem. Rep.",COD,1985,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.121860177
+"Congo, Dem. Rep.",COD,1984,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.136128876
+"Congo, Dem. Rep.",COD,1983,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.141754194
+"Congo, Dem. Rep.",COD,1982,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.110867465
+"Congo, Dem. Rep.",COD,1981,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.139680623
+"Congo, Dem. Rep.",COD,1980,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.132857757
+"Congo, Dem. Rep.",COD,1979,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.146316506
+"Congo, Dem. Rep.",COD,1978,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.141793562
+"Congo, Dem. Rep.",COD,1977,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.143812064
+"Congo, Dem. Rep.",COD,1976,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.144902754
+"Congo, Dem. Rep.",COD,1975,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.141373532
+"Congo, Dem. Rep.",COD,1974,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.151241082
+"Congo, Dem. Rep.",COD,1973,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.147251776
+"Congo, Dem. Rep.",COD,1972,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.143059348
+"Congo, Dem. Rep.",COD,1971,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.144083207
+"Congo, Dem. Rep.",COD,1970,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.135604194
+"Congo, Dem. Rep.",COD,1969,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.187685825
+"Congo, Dem. Rep.",COD,1968,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.178174656
+"Congo, Dem. Rep.",COD,1967,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.124703324
+"Congo, Dem. Rep.",COD,1966,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.134673889
+"Congo, Dem. Rep.",COD,1965,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.142289856
+"Congo, Dem. Rep.",COD,1964,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.116926933
+"Congo, Dem. Rep.",COD,1963,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.13944636
+"Congo, Dem. Rep.",COD,1962,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.135559233
+"Congo, Dem. Rep.",COD,1961,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.150781829
+"Congo, Dem. Rep.",COD,1960,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,0.152227966
+"Congo, Dem. Rep.",COD,2018,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.023534234
+"Congo, Dem. Rep.",COD,2017,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.026429485
+"Congo, Dem. Rep.",COD,2016,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.027131444
+"Congo, Dem. Rep.",COD,2015,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.041862425
+"Congo, Dem. Rep.",COD,2014,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.0764142
+"Congo, Dem. Rep.",COD,2013,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.067884495
+"Congo, Dem. Rep.",COD,2012,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.052581416
+"Congo, Dem. Rep.",COD,2011,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.056432335
+"Congo, Dem. Rep.",COD,2010,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.050332445
+"Congo, Dem. Rep.",COD,2009,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.050831768
+"Congo, Dem. Rep.",COD,2008,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.05130971
+"Congo, Dem. Rep.",COD,2007,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.051998748
+"Congo, Dem. Rep.",COD,2006,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.051874619
+"Congo, Dem. Rep.",COD,2005,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.052418404
+"Congo, Dem. Rep.",COD,2004,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.04504683
+"Congo, Dem. Rep.",COD,2003,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.045156497
+"Congo, Dem. Rep.",COD,2002,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.039937707
+"Congo, Dem. Rep.",COD,2001,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.037493865
+"Congo, Dem. Rep.",COD,2000,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.043684345
+"Congo, Dem. Rep.",COD,1999,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.059650248
+"Congo, Dem. Rep.",COD,1998,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.0583664
+"Congo, Dem. Rep.",COD,1997,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.052389199
+"Congo, Dem. Rep.",COD,1996,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.052394921
+"Congo, Dem. Rep.",COD,1995,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.052385914
+"Congo, Dem. Rep.",COD,1994,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.055596127
+"Congo, Dem. Rep.",COD,1993,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.060963545
+"Congo, Dem. Rep.",COD,1992,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.055890374
+"Congo, Dem. Rep.",COD,1991,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.060149722
+"Congo, Dem. Rep.",COD,1990,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD,0.10407611
+"Congo, Dem. Rep.",COD,2018,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.024099286
+"Congo, Dem. Rep.",COD,2017,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.026429485
+"Congo, Dem. Rep.",COD,2016,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.02476924
+"Congo, Dem. Rep.",COD,2015,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.035582841
+"Congo, Dem. Rep.",COD,2014,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.063055324
+"Congo, Dem. Rep.",COD,2013,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.052598744
+"Congo, Dem. Rep.",COD,2012,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.037987988
+"Congo, Dem. Rep.",COD,2011,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.042186831
+"Congo, Dem. Rep.",COD,2010,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.036856863
+"Congo, Dem. Rep.",COD,2009,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.036793762
+"Congo, Dem. Rep.",COD,2008,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.03685872
+"Congo, Dem. Rep.",COD,2007,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.036640981
+"Congo, Dem. Rep.",COD,2006,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.03559727
+"Congo, Dem. Rep.",COD,2005,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.034913861
+"Congo, Dem. Rep.",COD,2004,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.029097569
+"Congo, Dem. Rep.",COD,2003,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.028403719
+"Congo, Dem. Rep.",COD,2002,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.024663051
+"Congo, Dem. Rep.",COD,2001,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.022793349
+"Congo, Dem. Rep.",COD,2000,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.02598668
+"Congo, Dem. Rep.",COD,1999,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.034708481
+"Congo, Dem. Rep.",COD,1998,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.033478095
+"Congo, Dem. Rep.",COD,1997,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.029715212
+"Congo, Dem. Rep.",COD,1996,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.029214682
+"Congo, Dem. Rep.",COD,1995,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.028684439
+"Congo, Dem. Rep.",COD,1994,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.029817011
+"Congo, Dem. Rep.",COD,1993,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.032012057
+"Congo, Dem. Rep.",COD,1992,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.02866888
+"Congo, Dem. Rep.",COD,1991,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.030166245
+"Congo, Dem. Rep.",COD,1990,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD,0.050488768
+"Congo, Dem. Rep.",COD,2016,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
+"Congo, Dem. Rep.",COD,2015,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
+"Congo, Dem. Rep.",COD,2014,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
+"Congo, Dem. Rep.",COD,2013,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
+"Congo, Dem. Rep.",COD,2012,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
+"Congo, Dem. Rep.",COD,2011,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
+"Congo, Dem. Rep.",COD,2010,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
+"Congo, Dem. Rep.",COD,2009,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
+"Congo, Dem. Rep.",COD,2008,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
+"Congo, Dem. Rep.",COD,2007,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
+"Congo, Dem. Rep.",COD,2006,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
+"Congo, Dem. Rep.",COD,2005,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
+"Congo, Dem. Rep.",COD,2004,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
+"Congo, Dem. Rep.",COD,2003,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
+"Congo, Dem. Rep.",COD,2002,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
+"Congo, Dem. Rep.",COD,2001,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
+"Congo, Dem. Rep.",COD,2000,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
+"Congo, Dem. Rep.",COD,1999,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
+"Congo, Dem. Rep.",COD,1998,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
+"Congo, Dem. Rep.",COD,1997,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
+"Congo, Dem. Rep.",COD,1996,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
+"Congo, Dem. Rep.",COD,1995,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
+"Congo, Dem. Rep.",COD,1994,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
+"Congo, Dem. Rep.",COD,1993,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
+"Congo, Dem. Rep.",COD,1992,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
+"Congo, Dem. Rep.",COD,1991,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,0
+"Congo, Dem. Rep.",COD,1990,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,891.081
+"Congo, Dem. Rep.",COD,1989,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,843.41
+"Congo, Dem. Rep.",COD,1988,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,931.418
+"Congo, Dem. Rep.",COD,1987,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,850.744
+"Congo, Dem. Rep.",COD,1986,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,839.743
+"Congo, Dem. Rep.",COD,1985,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,821.408
+"Congo, Dem. Rep.",COD,1984,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,825.075
+"Congo, Dem. Rep.",COD,1983,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,806.74
+"Congo, Dem. Rep.",COD,1982,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,825.075
+"Congo, Dem. Rep.",COD,1981,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,861.745
+"Congo, Dem. Rep.",COD,1980,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,843.41
+"Congo, Dem. Rep.",COD,1979,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,748.068
+"Congo, Dem. Rep.",COD,1978,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,843.41
+"Congo, Dem. Rep.",COD,1977,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,887.414
+"Congo, Dem. Rep.",COD,1976,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,876.413
+"Congo, Dem. Rep.",COD,1975,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,671.061
+"Congo, Dem. Rep.",COD,1974,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,832.409
+"Congo, Dem. Rep.",COD,1973,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,828.742
+"Congo, Dem. Rep.",COD,1972,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,850.744
+"Congo, Dem. Rep.",COD,1971,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,876.413
+"Congo, Dem. Rep.",COD,1970,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,788.405
+"Congo, Dem. Rep.",COD,1969,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,887.414
+"Congo, Dem. Rep.",COD,1968,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,740.734
+"Congo, Dem. Rep.",COD,1967,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,949.753
+"Congo, Dem. Rep.",COD,1966,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,909.416
+"Congo, Dem. Rep.",COD,1965,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,1180.774
+"Congo, Dem. Rep.",COD,1964,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,938.752
+"Congo, Dem. Rep.",COD,1963,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,817.741
+"Congo, Dem. Rep.",COD,1962,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,839.743
+"Congo, Dem. Rep.",COD,1961,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,1059.763
+"Congo, Dem. Rep.",COD,1960,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT,1041.428
+"Congo, Dem. Rep.",COD,2016,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
+"Congo, Dem. Rep.",COD,2015,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
+"Congo, Dem. Rep.",COD,2014,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
+"Congo, Dem. Rep.",COD,2013,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
+"Congo, Dem. Rep.",COD,2012,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
+"Congo, Dem. Rep.",COD,2011,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
+"Congo, Dem. Rep.",COD,2010,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
+"Congo, Dem. Rep.",COD,2009,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
+"Congo, Dem. Rep.",COD,2008,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
+"Congo, Dem. Rep.",COD,2007,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
+"Congo, Dem. Rep.",COD,2006,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
+"Congo, Dem. Rep.",COD,2005,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
+"Congo, Dem. Rep.",COD,2004,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
+"Congo, Dem. Rep.",COD,2003,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
+"Congo, Dem. Rep.",COD,2002,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
+"Congo, Dem. Rep.",COD,2001,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
+"Congo, Dem. Rep.",COD,2000,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
+"Congo, Dem. Rep.",COD,1999,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
+"Congo, Dem. Rep.",COD,1998,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
+"Congo, Dem. Rep.",COD,1997,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
+"Congo, Dem. Rep.",COD,1996,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
+"Congo, Dem. Rep.",COD,1995,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
+"Congo, Dem. Rep.",COD,1994,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
+"Congo, Dem. Rep.",COD,1993,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
+"Congo, Dem. Rep.",COD,1992,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
+"Congo, Dem. Rep.",COD,1991,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,0
+"Congo, Dem. Rep.",COD,1990,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,28.02141509
+"Congo, Dem. Rep.",COD,1989,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,19.19866444
+"Congo, Dem. Rep.",COD,1988,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,23.17518248
+"Congo, Dem. Rep.",COD,1987,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,22.07421503
+"Congo, Dem. Rep.",COD,1986,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,24.86427796
+"Congo, Dem. Rep.",COD,1985,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,22.55790534
+"Congo, Dem. Rep.",COD,1984,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,20.81406105
+"Congo, Dem. Rep.",COD,1983,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,20.03642987
+"Congo, Dem. Rep.",COD,1982,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,26.849642
+"Congo, Dem. Rep.",COD,1981,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,22.81553398
+"Congo, Dem. Rep.",COD,1980,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,24.08376963
+"Congo, Dem. Rep.",COD,1979,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,19.921875
+"Congo, Dem. Rep.",COD,1978,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,23.83419689
+"Congo, Dem. Rep.",COD,1977,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,25.446898
+"Congo, Dem. Rep.",COD,1976,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,25.67132116
+"Congo, Dem. Rep.",COD,1975,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,20.72480181
+"Congo, Dem. Rep.",COD,1974,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,24.7007617
+"Congo, Dem. Rep.",COD,1973,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,25.94718714
+"Congo, Dem. Rep.",COD,1972,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,28.15533981
+"Congo, Dem. Rep.",COD,1971,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,29.57920792
+"Congo, Dem. Rep.",COD,1970,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,29.05405405
+"Congo, Dem. Rep.",COD,1969,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,24.29718876
+"Congo, Dem. Rep.",COD,1968,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,21.98041349
+"Congo, Dem. Rep.",COD,1967,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,41.44
+"Congo, Dem. Rep.",COD,1966,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,37.80487805
+"Congo, Dem. Rep.",COD,1965,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,47.77448071
+"Congo, Dem. Rep.",COD,1964,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,47.49536178
+"Congo, Dem. Rep.",COD,1963,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,35.62300319
+"Congo, Dem. Rep.",COD,1962,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,38.61720067
+"Congo, Dem. Rep.",COD,1961,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,44.94556765
+"Congo, Dem. Rep.",COD,1960,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS,44.8657188
+"Congo, Dem. Rep.",COD,2016,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-2774.773186
+"Congo, Dem. Rep.",COD,2015,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-1876.380703
+"Congo, Dem. Rep.",COD,2014,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-92.99405289
+"Congo, Dem. Rep.",COD,2013,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,59.76960754
+"Congo, Dem. Rep.",COD,2012,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,131.7028255
+"Congo, Dem. Rep.",COD,2011,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-17.00789833
+"Congo, Dem. Rep.",COD,2010,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-194.7015934
+"Congo, Dem. Rep.",COD,2009,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-271.8750095
+"Congo, Dem. Rep.",COD,2008,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-454.5652523
+"Congo, Dem. Rep.",COD,2007,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-578.5484715
+"Congo, Dem. Rep.",COD,2006,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-565.7723837
+"Congo, Dem. Rep.",COD,2005,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-681.2036886
+"Congo, Dem. Rep.",COD,2004,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-730.040679
+"Congo, Dem. Rep.",COD,2003,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-1588.137771
+"Congo, Dem. Rep.",COD,2002,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-1385.031203
+"Congo, Dem. Rep.",COD,2001,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-1366.68904
+"Congo, Dem. Rep.",COD,2000,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-1326.47582
+"Congo, Dem. Rep.",COD,1999,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-1502.215919
+"Congo, Dem. Rep.",COD,1998,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-1708.443703
+"Congo, Dem. Rep.",COD,1997,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-1881.268745
+"Congo, Dem. Rep.",COD,1996,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-1864.671638
+"Congo, Dem. Rep.",COD,1995,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-1839.487709
+"Congo, Dem. Rep.",COD,1994,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-1817.240761
+"Congo, Dem. Rep.",COD,1993,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-883.5638752
+"Congo, Dem. Rep.",COD,1992,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-999.0917587
+"Congo, Dem. Rep.",COD,1991,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-1015.964495
+"Congo, Dem. Rep.",COD,1990,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,-109.3407803
+"Congo, Dem. Rep.",COD,1989,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,865305.7479
+"Congo, Dem. Rep.",COD,1988,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,782528.8349
+"Congo, Dem. Rep.",COD,1987,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,1075471.386
+"Congo, Dem. Rep.",COD,1986,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,797433.032
+"Congo, Dem. Rep.",COD,1985,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,861357.5027
+"Congo, Dem. Rep.",COD,1984,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,853258.0142
+"Congo, Dem. Rep.",COD,1983,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,1070056.814
+"Congo, Dem. Rep.",COD,1982,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,1062835.247
+"Congo, Dem. Rep.",COD,1981,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,946271.4188
+"Congo, Dem. Rep.",COD,1980,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,1072410.901
+"Congo, Dem. Rep.",COD,1979,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,1273190.06
+"Congo, Dem. Rep.",COD,1978,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,978853.6233
+"Congo, Dem. Rep.",COD,1977,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,929829.5084
+"Congo, Dem. Rep.",COD,1976,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,815062.9991
+"Congo, Dem. Rep.",COD,1975,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,916289.3111
+"Congo, Dem. Rep.",COD,1974,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,788962.2612
+"Congo, Dem. Rep.",COD,1973,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,894524.224
+"Congo, Dem. Rep.",COD,1972,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,843642.6724
+"Congo, Dem. Rep.",COD,1971,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,796309.5742
+"Congo, Dem. Rep.",COD,1970,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE,1325002.239
+"Congo, Dem. Rep.",COD,2012,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,-44.83823559
+"Congo, Dem. Rep.",COD,2011,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,-44.83823559
+"Congo, Dem. Rep.",COD,2010,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,-44.83823559
+"Congo, Dem. Rep.",COD,2009,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,-49.88165222
+"Congo, Dem. Rep.",COD,2008,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,-48.01847437
+"Congo, Dem. Rep.",COD,2007,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,-53.45801095
+"Congo, Dem. Rep.",COD,2006,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,-37.17795263
+"Congo, Dem. Rep.",COD,2005,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,-42.81058295
+"Congo, Dem. Rep.",COD,2004,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,-41.73526797
+"Congo, Dem. Rep.",COD,2003,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,-45.9159916
+"Congo, Dem. Rep.",COD,2002,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,-46.59123048
+"Congo, Dem. Rep.",COD,2001,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,-52.70087136
+"Congo, Dem. Rep.",COD,2000,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,-37.91825754
+"Congo, Dem. Rep.",COD,1999,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,-39.32395305
+"Congo, Dem. Rep.",COD,1998,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,-25.48626964
+"Congo, Dem. Rep.",COD,1997,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,-25.87535605
+"Congo, Dem. Rep.",COD,1996,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,-22.21029794
+"Congo, Dem. Rep.",COD,1995,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,-9.641883497
+"Congo, Dem. Rep.",COD,1994,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,-10.31672003
+"Congo, Dem. Rep.",COD,1993,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,-21.84100069
+"Congo, Dem. Rep.",COD,1992,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,31.13173135
+"Congo, Dem. Rep.",COD,1991,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG,-15.56145162
+"Congo, Dem. Rep.",COD,2018,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,58700
+"Congo, Dem. Rep.",COD,2017,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,59660
+"Congo, Dem. Rep.",COD,2016,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,57640
+"Congo, Dem. Rep.",COD,2015,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,57980
+"Congo, Dem. Rep.",COD,2014,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,57680
+"Congo, Dem. Rep.",COD,2013,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,55970
+"Congo, Dem. Rep.",COD,2012,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,52160
+"Congo, Dem. Rep.",COD,2011,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,51120
+"Congo, Dem. Rep.",COD,2010,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,51030
+"Congo, Dem. Rep.",COD,2009,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,49250
+"Congo, Dem. Rep.",COD,2008,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,48790
+"Congo, Dem. Rep.",COD,2007,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,46510
+"Congo, Dem. Rep.",COD,2006,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,49100
+"Congo, Dem. Rep.",COD,2005,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,47910
+"Congo, Dem. Rep.",COD,2004,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,47790
+"Congo, Dem. Rep.",COD,2003,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,45610
+"Congo, Dem. Rep.",COD,2002,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,42720
+"Congo, Dem. Rep.",COD,2001,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,37320
+"Congo, Dem. Rep.",COD,2000,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,35580
+"Congo, Dem. Rep.",COD,1999,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,35870
+"Congo, Dem. Rep.",COD,1998,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,37620
+"Congo, Dem. Rep.",COD,1997,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,36570
+"Congo, Dem. Rep.",COD,1996,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,37000
+"Congo, Dem. Rep.",COD,1995,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,42190
+"Congo, Dem. Rep.",COD,1994,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,42200
+"Congo, Dem. Rep.",COD,1993,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,41870
+"Congo, Dem. Rep.",COD,1992,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,41500
+"Congo, Dem. Rep.",COD,1991,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,41100
+"Congo, Dem. Rep.",COD,1990,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,42210
+"Congo, Dem. Rep.",COD,1989,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,983441.91
+"Congo, Dem. Rep.",COD,1988,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,880361.56
+"Congo, Dem. Rep.",COD,1987,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,1239851.88
+"Congo, Dem. Rep.",COD,1986,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,899601.98
+"Congo, Dem. Rep.",COD,1985,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,970912.17
+"Congo, Dem. Rep.",COD,1984,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,959898.96
+"Congo, Dem. Rep.",COD,1983,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,1226108.87
+"Congo, Dem. Rep.",COD,1982,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,1219832.09
+"Congo, Dem. Rep.",COD,1981,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,1079908.06
+"Congo, Dem. Rep.",COD,1980,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,1234690.64
+"Congo, Dem. Rep.",COD,1979,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,1481813.48
+"Congo, Dem. Rep.",COD,1978,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,1124723.38
+"Congo, Dem. Rep.",COD,1977,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,1066348.99
+"Congo, Dem. Rep.",COD,1976,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,927528.11
+"Congo, Dem. Rep.",COD,1975,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,1049438.38
+"Congo, Dem. Rep.",COD,1974,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,892820.42
+"Congo, Dem. Rep.",COD,1973,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,1021542.44
+"Congo, Dem. Rep.",COD,1972,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,958870.9
+"Congo, Dem. Rep.",COD,1971,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,899793.29
+"Congo, Dem. Rep.",COD,1970,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE,1550424.37
+"Congo, Dem. Rep.",COD,2012,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,-41.73442939
+"Congo, Dem. Rep.",COD,2011,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,-41.84441104
+"Congo, Dem. Rep.",COD,2010,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,-41.95540271
+"Congo, Dem. Rep.",COD,2009,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,-46.84631589
+"Congo, Dem. Rep.",COD,2008,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,-45.23393425
+"Congo, Dem. Rep.",COD,2007,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,-34.97175834
+"Congo, Dem. Rep.",COD,2006,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,-33.00354988
+"Congo, Dem. Rep.",COD,2005,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,-42.29677674
+"Congo, Dem. Rep.",COD,2004,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,-40.7148996
+"Congo, Dem. Rep.",COD,2003,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,-45.66980942
+"Congo, Dem. Rep.",COD,2002,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,-44.51976439
+"Congo, Dem. Rep.",COD,2001,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,-50.73652589
+"Congo, Dem. Rep.",COD,2000,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,-37.40946263
+"Congo, Dem. Rep.",COD,1999,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,-40.14769452
+"Congo, Dem. Rep.",COD,1998,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,-26.34205577
+"Congo, Dem. Rep.",COD,1997,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,-27.50298523
+"Congo, Dem. Rep.",COD,1996,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,-23.69380502
+"Congo, Dem. Rep.",COD,1995,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,-10.5032724
+"Congo, Dem. Rep.",COD,1994,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,-11.45361763
+"Congo, Dem. Rep.",COD,1993,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,-23.74644491
+"Congo, Dem. Rep.",COD,1992,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,32.48279407
+"Congo, Dem. Rep.",COD,1991,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG,-16.59606171
+"Congo, Dem. Rep.",COD,2010,HFC gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.HFCG.KT.CE,0
+"Congo, Dem. Rep.",COD,2008,HFC gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.HFCG.KT.CE,0
+"Congo, Dem. Rep.",COD,2005,HFC gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.HFCG.KT.CE,0
+"Congo, Dem. Rep.",COD,2000,HFC gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.HFCG.KT.CE,0
+"Congo, Dem. Rep.",COD,1990,HFC gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.HFCG.KT.CE,0
+"Congo, Dem. Rep.",COD,2018,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,38620
+"Congo, Dem. Rep.",COD,2017,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,38830
+"Congo, Dem. Rep.",COD,2016,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,37790
+"Congo, Dem. Rep.",COD,2015,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,37360
+"Congo, Dem. Rep.",COD,2014,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,35980
+"Congo, Dem. Rep.",COD,2013,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,35320
+"Congo, Dem. Rep.",COD,2012,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,33700
+"Congo, Dem. Rep.",COD,2011,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,32700
+"Congo, Dem. Rep.",COD,2010,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,32550
+"Congo, Dem. Rep.",COD,2009,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,31540
+"Congo, Dem. Rep.",COD,2008,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,31100
+"Congo, Dem. Rep.",COD,2007,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,29840
+"Congo, Dem. Rep.",COD,2006,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,30920
+"Congo, Dem. Rep.",COD,2005,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,30170
+"Congo, Dem. Rep.",COD,2004,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,30150
+"Congo, Dem. Rep.",COD,2003,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,29040
+"Congo, Dem. Rep.",COD,2002,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,27580
+"Congo, Dem. Rep.",COD,2001,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,24890
+"Congo, Dem. Rep.",COD,2000,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,23820
+"Congo, Dem. Rep.",COD,1999,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,23710
+"Congo, Dem. Rep.",COD,1998,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,24560
+"Congo, Dem. Rep.",COD,1997,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,24170
+"Congo, Dem. Rep.",COD,1996,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,24340
+"Congo, Dem. Rep.",COD,1995,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,26870
+"Congo, Dem. Rep.",COD,1994,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,26780
+"Congo, Dem. Rep.",COD,1993,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,26320
+"Congo, Dem. Rep.",COD,1992,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,25900
+"Congo, Dem. Rep.",COD,1991,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,25310
+"Congo, Dem. Rep.",COD,1990,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,24920
+"Congo, Dem. Rep.",COD,1989,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,57709.6
+"Congo, Dem. Rep.",COD,1988,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,45660.2
+"Congo, Dem. Rep.",COD,1987,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,83973.6
+"Congo, Dem. Rep.",COD,1986,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,48495.5
+"Congo, Dem. Rep.",COD,1985,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,51682.6
+"Congo, Dem. Rep.",COD,1984,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,49598.8
+"Congo, Dem. Rep.",COD,1983,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,77938.3
+"Congo, Dem. Rep.",COD,1982,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,79415.3
+"Congo, Dem. Rep.",COD,1981,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,65799.7
+"Congo, Dem. Rep.",COD,1980,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,82413
+"Congo, Dem. Rep.",COD,1979,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,109096
+"Congo, Dem. Rep.",COD,1978,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,73709.3
+"Congo, Dem. Rep.",COD,1977,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,68535.2
+"Congo, Dem. Rep.",COD,1976,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,54983.4
+"Congo, Dem. Rep.",COD,1975,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,66528.2
+"Congo, Dem. Rep.",COD,1974,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,49570.4
+"Congo, Dem. Rep.",COD,1973,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,62884.2
+"Congo, Dem. Rep.",COD,1972,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,56073.3
+"Congo, Dem. Rep.",COD,1971,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,49226.3
+"Congo, Dem. Rep.",COD,1970,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE,119583
+"Congo, Dem. Rep.",COD,2012,Methane emissions (% change from 1990),EN.ATM.METH.ZG,-23.39184356
+"Congo, Dem. Rep.",COD,2011,Methane emissions (% change from 1990),EN.ATM.METH.ZG,-24.14290392
+"Congo, Dem. Rep.",COD,2010,Methane emissions (% change from 1990),EN.ATM.METH.ZG,-24.89396428
+"Congo, Dem. Rep.",COD,2009,Methane emissions (% change from 1990),EN.ATM.METH.ZG,-29.0307557
+"Congo, Dem. Rep.",COD,2008,Methane emissions (% change from 1990),EN.ATM.METH.ZG,-29.38168284
+"Congo, Dem. Rep.",COD,2007,Methane emissions (% change from 1990),EN.ATM.METH.ZG,92.88078544
+"Congo, Dem. Rep.",COD,2006,Methane emissions (% change from 1990),EN.ATM.METH.ZG,-3.019336076
+"Congo, Dem. Rep.",COD,2005,Methane emissions (% change from 1990),EN.ATM.METH.ZG,-41.34117013
+"Congo, Dem. Rep.",COD,2004,Methane emissions (% change from 1990),EN.ATM.METH.ZG,-35.25063682
+"Congo, Dem. Rep.",COD,2003,Methane emissions (% change from 1990),EN.ATM.METH.ZG,-46.20930552
+"Congo, Dem. Rep.",COD,2002,Methane emissions (% change from 1990),EN.ATM.METH.ZG,-33.00586234
+"Congo, Dem. Rep.",COD,2001,Methane emissions (% change from 1990),EN.ATM.METH.ZG,-40.64063779
+"Congo, Dem. Rep.",COD,2000,Methane emissions (% change from 1990),EN.ATM.METH.ZG,-35.22928223
+"Congo, Dem. Rep.",COD,1999,Methane emissions (% change from 1990),EN.ATM.METH.ZG,-48.2535502
+"Congo, Dem. Rep.",COD,1998,Methane emissions (% change from 1990),EN.ATM.METH.ZG,-32.26729849
+"Congo, Dem. Rep.",COD,1997,Methane emissions (% change from 1990),EN.ATM.METH.ZG,-40.70063403
+"Congo, Dem. Rep.",COD,1996,Methane emissions (% change from 1990),EN.ATM.METH.ZG,-35.6705088
+"Congo, Dem. Rep.",COD,1995,Methane emissions (% change from 1990),EN.ATM.METH.ZG,-17.01401776
+"Congo, Dem. Rep.",COD,1994,Methane emissions (% change from 1990),EN.ATM.METH.ZG,-20.39251776
+"Congo, Dem. Rep.",COD,1993,Methane emissions (% change from 1990),EN.ATM.METH.ZG,-39.5750436
+"Congo, Dem. Rep.",COD,1992,Methane emissions (% change from 1990),EN.ATM.METH.ZG,45.22953645
+"Congo, Dem. Rep.",COD,1991,Methane emissions (% change from 1990),EN.ATM.METH.ZG,-25.29248166
+"Congo, Dem. Rep.",COD,2018,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,15790
+"Congo, Dem. Rep.",COD,2017,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,16630
+"Congo, Dem. Rep.",COD,2016,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,16060
+"Congo, Dem. Rep.",COD,2015,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,16170
+"Congo, Dem. Rep.",COD,2014,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,15500
+"Congo, Dem. Rep.",COD,2013,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,15730
+"Congo, Dem. Rep.",COD,2012,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,14920
+"Congo, Dem. Rep.",COD,2011,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,14940
+"Congo, Dem. Rep.",COD,2010,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,15610
+"Congo, Dem. Rep.",COD,2009,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,15060
+"Congo, Dem. Rep.",COD,2008,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,15160
+"Congo, Dem. Rep.",COD,2007,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,14350
+"Congo, Dem. Rep.",COD,2006,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,16090
+"Congo, Dem. Rep.",COD,2005,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,15830
+"Congo, Dem. Rep.",COD,2004,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,16060
+"Congo, Dem. Rep.",COD,2003,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,15110
+"Congo, Dem. Rep.",COD,2002,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,13900
+"Congo, Dem. Rep.",COD,2001,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,11290
+"Congo, Dem. Rep.",COD,2000,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,10510
+"Congo, Dem. Rep.",COD,1999,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,10570
+"Congo, Dem. Rep.",COD,1998,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,11500
+"Congo, Dem. Rep.",COD,1997,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,11020
+"Congo, Dem. Rep.",COD,1996,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,11270
+"Congo, Dem. Rep.",COD,1995,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,14000
+"Congo, Dem. Rep.",COD,1994,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,14060
+"Congo, Dem. Rep.",COD,1993,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,14050
+"Congo, Dem. Rep.",COD,1992,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,14070
+"Congo, Dem. Rep.",COD,1991,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,14010
+"Congo, Dem. Rep.",COD,1990,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,14080
+"Congo, Dem. Rep.",COD,1989,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,56790.14
+"Congo, Dem. Rep.",COD,1988,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,48343.88
+"Congo, Dem. Rep.",COD,1987,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,76718.49
+"Congo, Dem. Rep.",COD,1986,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,50319.51
+"Congo, Dem. Rep.",COD,1985,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,54284.1
+"Congo, Dem. Rep.",COD,1984,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,53197.24
+"Congo, Dem. Rep.",COD,1983,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,74175.25
+"Congo, Dem. Rep.",COD,1982,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,74579.49
+"Congo, Dem. Rep.",COD,1981,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,64093.12
+"Congo, Dem. Rep.",COD,1980,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,76365.4
+"Congo, Dem. Rep.",COD,1979,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,95986.54
+"Congo, Dem. Rep.",COD,1978,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,68962.29
+"Congo, Dem. Rep.",COD,1977,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,64808.29
+"Congo, Dem. Rep.",COD,1976,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,54416.16
+"Congo, Dem. Rep.",COD,1975,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,63493.89
+"Congo, Dem. Rep.",COD,1974,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,51105.05
+"Congo, Dem. Rep.",COD,1973,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,61105.34
+"Congo, Dem. Rep.",COD,1972,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,56144.1
+"Congo, Dem. Rep.",COD,1971,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,51330.11
+"Congo, Dem. Rep.",COD,1970,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE,102941.39
+"Congo, Dem. Rep.",COD,2012,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,-22.02746313
+"Congo, Dem. Rep.",COD,2011,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,-22.79189976
+"Congo, Dem. Rep.",COD,2010,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,-23.5563364
+"Congo, Dem. Rep.",COD,2009,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,-27.18216639
+"Congo, Dem. Rep.",COD,2008,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,-26.71164427
+"Congo, Dem. Rep.",COD,2007,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,71.82948819
+"Congo, Dem. Rep.",COD,2006,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,-10.5983064
+"Congo, Dem. Rep.",COD,2005,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,-37.24380017
+"Congo, Dem. Rep.",COD,2004,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,-33.41951867
+"Congo, Dem. Rep.",COD,2003,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,-42.21504604
+"Congo, Dem. Rep.",COD,2002,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,-29.52553018
+"Congo, Dem. Rep.",COD,2001,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,-35.71309175
+"Congo, Dem. Rep.",COD,2000,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,-32.85368291
+"Congo, Dem. Rep.",COD,1999,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,-42.62759756
+"Congo, Dem. Rep.",COD,1998,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,-31.16862332
+"Congo, Dem. Rep.",COD,1997,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,-34.53767556
+"Congo, Dem. Rep.",COD,1996,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,-30.04299783
+"Congo, Dem. Rep.",COD,1995,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,-14.0815216
+"Congo, Dem. Rep.",COD,1994,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,-16.04647606
+"Congo, Dem. Rep.",COD,1993,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,-31.69853864
+"Congo, Dem. Rep.",COD,1992,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,38.70266771
+"Congo, Dem. Rep.",COD,1991,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG,-20.91885183
+"Congo, Dem. Rep.",COD,2010,PFC gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.PFCG.KT.CE,0
+"Congo, Dem. Rep.",COD,2008,PFC gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.PFCG.KT.CE,0
+"Congo, Dem. Rep.",COD,2005,PFC gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.PFCG.KT.CE,0
+"Congo, Dem. Rep.",COD,2000,PFC gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.PFCG.KT.CE,0
+"Congo, Dem. Rep.",COD,1990,PFC gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.PFCG.KT.CE,0
+"Congo, Dem. Rep.",COD,2010,SF6 gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.SF6G.KT.CE,0
+"Congo, Dem. Rep.",COD,2008,SF6 gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.SF6G.KT.CE,0
+"Congo, Dem. Rep.",COD,2005,SF6 gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.SF6G.KT.CE,0
+"Congo, Dem. Rep.",COD,2000,SF6 gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.SF6G.KT.CE,0
+"Congo, Dem. Rep.",COD,1990,SF6 gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.SF6G.KT.CE,0
+"Congo, Dem. Rep.",COD,2003,GHG net emissions/removals by LUCF (Mt of CO2 equivalent),EN.CLC.GHGR.MT.CE,-178.7794
+"Congo, Dem. Rep.",COD,2009,"Droughts, floods, extreme temperatures (% of population, average 1990-2009)",EN.CLC.MDAT.ZS,0.017890962
+"Congo, Dem. Rep.",COD,2010,Rural population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.RU.ZS,0.017427871
+"Congo, Dem. Rep.",COD,2000,Rural population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.RU.ZS,0.017586215
+"Congo, Dem. Rep.",COD,1990,Rural population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.RU.ZS,0.008971808
+"Congo, Dem. Rep.",COD,2010,Urban population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.UR.ZS,0.023850757
+"Congo, Dem. Rep.",COD,2000,Urban population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.UR.ZS,0.023129167
+"Congo, Dem. Rep.",COD,1990,Urban population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.UR.ZS,0.029763105
+"Congo, Dem. Rep.",COD,2010,Population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.ZS,0.041278628
+"Congo, Dem. Rep.",COD,2000,Population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.ZS,0.040715382
+"Congo, Dem. Rep.",COD,1990,Population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.ZS,0.038734913
+"Congo, Dem. Rep.",COD,2020,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,24.63748112
+"Congo, Dem. Rep.",COD,2019,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,24.35947072
+"Congo, Dem. Rep.",COD,2018,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,24.09900536
+"Congo, Dem. Rep.",COD,2017,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,23.853185
+"Congo, Dem. Rep.",COD,2016,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,23.61744571
+"Congo, Dem. Rep.",COD,2015,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,23.38981109
+"Congo, Dem. Rep.",COD,2014,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,23.16903751
+"Congo, Dem. Rep.",COD,2013,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,22.95427765
+"Congo, Dem. Rep.",COD,2012,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,22.7442258
+"Congo, Dem. Rep.",COD,2011,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,22.53755819
+"Congo, Dem. Rep.",COD,2010,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,22.33284776
+"Congo, Dem. Rep.",COD,2009,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,22.12861008
+"Congo, Dem. Rep.",COD,2008,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,21.92317335
+"Congo, Dem. Rep.",COD,2007,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,21.71472263
+"Congo, Dem. Rep.",COD,2006,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,21.50130105
+"Congo, Dem. Rep.",COD,2005,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,21.28098156
+"Congo, Dem. Rep.",COD,2004,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,21.05568521
+"Congo, Dem. Rep.",COD,2003,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,20.82475759
+"Congo, Dem. Rep.",COD,2002,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,20.58172305
+"Congo, Dem. Rep.",COD,2001,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,20.31477558
+"Congo, Dem. Rep.",COD,2000,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,20.019021
+"Congo, Dem. Rep.",COD,1999,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,19.68220988
+"Congo, Dem. Rep.",COD,1998,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,19.31483429
+"Congo, Dem. Rep.",COD,1997,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,18.87036064
+"Congo, Dem. Rep.",COD,1996,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,18.40133784
+"Congo, Dem. Rep.",COD,1995,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,18.00128674
+"Congo, Dem. Rep.",COD,1994,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,17.68823883
+"Congo, Dem. Rep.",COD,1993,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,17.45106604
+"Congo, Dem. Rep.",COD,1992,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,17.26313904
+"Congo, Dem. Rep.",COD,1991,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,17.07562387
+"Congo, Dem. Rep.",COD,1990,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,16.85526732
+"Congo, Dem. Rep.",COD,1989,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,16.58751128
+"Congo, Dem. Rep.",COD,1988,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,16.28127903
+"Congo, Dem. Rep.",COD,1987,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,15.94116688
+"Congo, Dem. Rep.",COD,1986,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,15.58715022
+"Congo, Dem. Rep.",COD,1985,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,15.23155914
+"Congo, Dem. Rep.",COD,1984,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,14.87533698
+"Congo, Dem. Rep.",COD,1983,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,14.42818437
+"Congo, Dem. Rep.",COD,1982,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,13.99252084
+"Congo, Dem. Rep.",COD,1981,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,13.57633999
+"Congo, Dem. Rep.",COD,1980,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,13.18680347
+"Congo, Dem. Rep.",COD,1979,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,12.82476058
+"Congo, Dem. Rep.",COD,1978,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,12.49141152
+"Congo, Dem. Rep.",COD,1977,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,12.17922608
+"Congo, Dem. Rep.",COD,1976,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,11.87908815
+"Congo, Dem. Rep.",COD,1975,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,11.58108116
+"Congo, Dem. Rep.",COD,1974,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,11.28529606
+"Congo, Dem. Rep.",COD,1973,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,10.99308322
+"Congo, Dem. Rep.",COD,1972,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,10.70824038
+"Congo, Dem. Rep.",COD,1971,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,10.43333754
+"Congo, Dem. Rep.",COD,1970,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,10.17398752
+"Congo, Dem. Rep.",COD,1969,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,9.831176222
+"Congo, Dem. Rep.",COD,1968,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,9.506053599
+"Congo, Dem. Rep.",COD,1967,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,9.136986346
+"Congo, Dem. Rep.",COD,1966,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,8.695137602
+"Congo, Dem. Rep.",COD,1965,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,8.273124711
+"Congo, Dem. Rep.",COD,1964,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,7.86957157
+"Congo, Dem. Rep.",COD,1963,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,7.481745041
+"Congo, Dem. Rep.",COD,1962,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,7.112179417
+"Congo, Dem. Rep.",COD,1961,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,6.760700103
+"Congo, Dem. Rep.",COD,1960,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,6.428099056
+"Congo, Dem. Rep.",COD,2017,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.6836
+"Congo, Dem. Rep.",COD,2012,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.6836
+"Congo, Dem. Rep.",COD,2007,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.6836
+"Congo, Dem. Rep.",COD,2002,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.6239
+"Congo, Dem. Rep.",COD,1997,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3,0.5193
+"Congo, Dem. Rep.",COD,2017,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,0.075955556
+"Congo, Dem. Rep.",COD,2012,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,0.075955556
+"Congo, Dem. Rep.",COD,2007,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,0.075955556
+"Congo, Dem. Rep.",COD,2002,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,0.069322222
+"Congo, Dem. Rep.",COD,1997,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,0.0577
+"Congo, Dem. Rep.",COD,2018,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,13.83326047
+"Congo, Dem. Rep.",COD,2017,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,13.83326047
+"Congo, Dem. Rep.",COD,2016,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS,12.7
+"Congo, Dem. Rep.",COD,2018,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,0.236439195
+"Congo, Dem. Rep.",COD,2017,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,0.236439195
+"Congo, Dem. Rep.",COD,2016,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS,0.233690654
+"Congo, Dem. Rep.",COD,2018,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,13.75675622
+"Congo, Dem. Rep.",COD,2017,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,13.75675622
+"Congo, Dem. Rep.",COD,2016,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,12.63431105
+"Congo, Dem. Rep.",COD,2019,Ease of doing business index (1=most business-friendly regulations),IC.BUS.EASE.XQ,183
+"Congo, Dem. Rep.",COD,2019,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,2.5
+"Congo, Dem. Rep.",COD,2018,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,2.5
+"Congo, Dem. Rep.",COD,2017,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,2.5
+"Congo, Dem. Rep.",COD,2016,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,2.5
+"Congo, Dem. Rep.",COD,2015,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,2.5
+"Congo, Dem. Rep.",COD,2014,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,2.5
+"Congo, Dem. Rep.",COD,2013,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,2.4
+"Congo, Dem. Rep.",COD,2012,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,2.2
+"Congo, Dem. Rep.",COD,2011,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,2.2
+"Congo, Dem. Rep.",COD,2010,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,2.2
+"Congo, Dem. Rep.",COD,2009,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,2.2
+"Congo, Dem. Rep.",COD,2008,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,2.2
+"Congo, Dem. Rep.",COD,2007,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,2.3
+"Congo, Dem. Rep.",COD,2006,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,2.3
+"Congo, Dem. Rep.",COD,2005,CPIA public sector management and institutions cluster average (1=low to 6=high),IQ.CPA.PUBS.XQ,2.3
+"Congo, Dem. Rep.",COD,2020,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,20.33338435
+"Congo, Dem. Rep.",COD,2019,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,19.96523389
+"Congo, Dem. Rep.",COD,2018,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,19.18452613
+"Congo, Dem. Rep.",COD,2017,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,19.7026975
+"Congo, Dem. Rep.",COD,2016,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,18.59975364
+"Congo, Dem. Rep.",COD,2015,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,18.3703885
+"Congo, Dem. Rep.",COD,2014,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,18.56251731
+"Congo, Dem. Rep.",COD,2013,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,19.31666763
+"Congo, Dem. Rep.",COD,2012,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,20.44106071
+"Congo, Dem. Rep.",COD,2011,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,20.91707601
+"Congo, Dem. Rep.",COD,2010,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,21.42849112
+"Congo, Dem. Rep.",COD,2009,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,23.6746667
+"Congo, Dem. Rep.",COD,2008,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,22.61867976
+"Congo, Dem. Rep.",COD,2007,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,21.6022053
+"Congo, Dem. Rep.",COD,2006,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,21.21006065
+"Congo, Dem. Rep.",COD,2005,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,21.57938225
+"Congo, Dem. Rep.",COD,2004,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,23.87935949
+"Congo, Dem. Rep.",COD,2003,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,26.05383881
+"Congo, Dem. Rep.",COD,2002,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,26.58377932
+"Congo, Dem. Rep.",COD,2001,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,32.87090402
+"Congo, Dem. Rep.",COD,2000,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,31.97235827
+"Congo, Dem. Rep.",COD,1999,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,52.36616493
+"Congo, Dem. Rep.",COD,1998,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,46.49996743
+"Congo, Dem. Rep.",COD,1997,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,47.50000059
+"Congo, Dem. Rep.",COD,1996,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,33.26198154
+"Congo, Dem. Rep.",COD,1995,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,56.54398926
+"Congo, Dem. Rep.",COD,1994,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,56.54402804
+"Congo, Dem. Rep.",COD,2015,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.889490008
+"Congo, Dem. Rep.",COD,2014,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.828859985
+"Congo, Dem. Rep.",COD,2013,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.827769995
+"Congo, Dem. Rep.",COD,2012,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.801110029
+"Congo, Dem. Rep.",COD,2011,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.788980007
+"Congo, Dem. Rep.",COD,2010,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.787819982
+"Congo, Dem. Rep.",COD,2009,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.77433002
+"Congo, Dem. Rep.",COD,2008,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.76394999
+"Congo, Dem. Rep.",COD,2007,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.739859998
+"Congo, Dem. Rep.",COD,1995,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.67019999
+"Congo, Dem. Rep.",COD,1994,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.672919989
+"Congo, Dem. Rep.",COD,1993,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.706579983
+"Congo, Dem. Rep.",COD,1992,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.698469996
+"Congo, Dem. Rep.",COD,1988,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.679139972
+"Congo, Dem. Rep.",COD,1987,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.704879999
+"Congo, Dem. Rep.",COD,1986,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.606130004
+"Congo, Dem. Rep.",COD,1985,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.603399992
+"Congo, Dem. Rep.",COD,1984,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.681609988
+"Congo, Dem. Rep.",COD,1983,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.667949975
+"Congo, Dem. Rep.",COD,1982,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.654929996
+"Congo, Dem. Rep.",COD,1981,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.645519972
+"Congo, Dem. Rep.",COD,1980,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.63331002
+"Congo, Dem. Rep.",COD,1979,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.621529996
+"Congo, Dem. Rep.",COD,1978,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.619130015
+"Congo, Dem. Rep.",COD,1977,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.620890021
+"Congo, Dem. Rep.",COD,1976,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.612990022
+"Congo, Dem. Rep.",COD,1975,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.608749986
+"Congo, Dem. Rep.",COD,1974,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.618749976
+"Congo, Dem. Rep.",COD,1973,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.590699971
+"Congo, Dem. Rep.",COD,1972,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.574909985
+"Congo, Dem. Rep.",COD,1971,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.553229988
+"Congo, Dem. Rep.",COD,2015,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,69.91117096
+"Congo, Dem. Rep.",COD,2013,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,69.77172852
+"Congo, Dem. Rep.",COD,2012,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,70.90409088
+"Congo, Dem. Rep.",COD,2011,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,65.57299042
+"Congo, Dem. Rep.",COD,2010,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,63.64162064
+"Congo, Dem. Rep.",COD,2009,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,63.11711121
+"Congo, Dem. Rep.",COD,2008,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,60.51383972
+"Congo, Dem. Rep.",COD,2007,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,55.44419098
+"Congo, Dem. Rep.",COD,2002,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,42.70936966
+"Congo, Dem. Rep.",COD,1999,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,34.88388824
+"Congo, Dem. Rep.",COD,1994,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,47.37845993
+"Congo, Dem. Rep.",COD,1993,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,56.14167023
+"Congo, Dem. Rep.",COD,1992,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,48.66859055
+"Congo, Dem. Rep.",COD,1991,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,52.33850861
+"Congo, Dem. Rep.",COD,1988,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,50.41149139
+"Congo, Dem. Rep.",COD,1984,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,69.32862854
+"Congo, Dem. Rep.",COD,1983,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,67.00007629
+"Congo, Dem. Rep.",COD,1982,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,64.59004211
+"Congo, Dem. Rep.",COD,1981,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,62.08292007
+"Congo, Dem. Rep.",COD,1980,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,59.91345978
+"Congo, Dem. Rep.",COD,1978,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,60.31843185
+"Congo, Dem. Rep.",COD,1977,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,56.76039886
+"Congo, Dem. Rep.",COD,1976,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,53.83528137
+"Congo, Dem. Rep.",COD,1972,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,43.54940033
+"Congo, Dem. Rep.",COD,1971,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,41.38568115
+"Congo, Dem. Rep.",COD,2019,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,84.8
+"Congo, Dem. Rep.",COD,2018,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,87.6
+"Congo, Dem. Rep.",COD,2017,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,90.8
+"Congo, Dem. Rep.",COD,2016,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,93.9
+"Congo, Dem. Rep.",COD,2015,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,97.2
+"Congo, Dem. Rep.",COD,2014,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,100.4
+"Congo, Dem. Rep.",COD,2013,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,103.8
+"Congo, Dem. Rep.",COD,2012,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,107.3
+"Congo, Dem. Rep.",COD,2011,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,110.9
+"Congo, Dem. Rep.",COD,2010,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,114.8
+"Congo, Dem. Rep.",COD,2009,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,118.9
+"Congo, Dem. Rep.",COD,2008,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,123.1
+"Congo, Dem. Rep.",COD,2007,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,127.5
+"Congo, Dem. Rep.",COD,2006,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,132
+"Congo, Dem. Rep.",COD,2005,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,136.7
+"Congo, Dem. Rep.",COD,2004,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,141.3
+"Congo, Dem. Rep.",COD,2003,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,146.1
+"Congo, Dem. Rep.",COD,2002,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,150.7
+"Congo, Dem. Rep.",COD,2001,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,155.2
+"Congo, Dem. Rep.",COD,2000,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,159.5
+"Congo, Dem. Rep.",COD,1999,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,163.5
+"Congo, Dem. Rep.",COD,1998,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,167.1
+"Congo, Dem. Rep.",COD,1997,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,170.2
+"Congo, Dem. Rep.",COD,1996,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,172.8
+"Congo, Dem. Rep.",COD,1995,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,175.1
+"Congo, Dem. Rep.",COD,1994,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,177.2
+"Congo, Dem. Rep.",COD,1993,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,179.1
+"Congo, Dem. Rep.",COD,1992,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,181.1
+"Congo, Dem. Rep.",COD,1991,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,183.2
+"Congo, Dem. Rep.",COD,1990,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,185.4
+"Congo, Dem. Rep.",COD,1989,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,187.7
+"Congo, Dem. Rep.",COD,1988,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,189.9
+"Congo, Dem. Rep.",COD,1987,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,192.1
+"Congo, Dem. Rep.",COD,1986,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,194.5
+"Congo, Dem. Rep.",COD,1985,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,197
+"Congo, Dem. Rep.",COD,1984,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,199.5
+"Congo, Dem. Rep.",COD,1983,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,202.2
+"Congo, Dem. Rep.",COD,1982,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,205.2
+"Congo, Dem. Rep.",COD,1981,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,208.3
+"Congo, Dem. Rep.",COD,1980,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,211.8
+"Congo, Dem. Rep.",COD,1979,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,215.4
+"Congo, Dem. Rep.",COD,1978,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,218.9
+"Congo, Dem. Rep.",COD,1977,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,222.5
+"Congo, Dem. Rep.",COD,1976,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,226.1
+"Congo, Dem. Rep.",COD,1975,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,229.9
+"Congo, Dem. Rep.",COD,1974,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,233.8
+"Congo, Dem. Rep.",COD,1973,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,237.4
+"Congo, Dem. Rep.",COD,1972,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,241.1
+"Congo, Dem. Rep.",COD,1971,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,244.4
+"Congo, Dem. Rep.",COD,1970,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,247.7
+"Congo, Dem. Rep.",COD,1969,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,250.7
+"Congo, Dem. Rep.",COD,2017,"Prevalence of underweight, weight for age (% of children under 5)",SH.STA.MALN.ZS,23.1
+"Congo, Dem. Rep.",COD,2013,"Prevalence of underweight, weight for age (% of children under 5)",SH.STA.MALN.ZS,23.4
+"Congo, Dem. Rep.",COD,2010,"Prevalence of underweight, weight for age (% of children under 5)",SH.STA.MALN.ZS,24.2
+"Congo, Dem. Rep.",COD,2007,"Prevalence of underweight, weight for age (% of children under 5)",SH.STA.MALN.ZS,25.6
+"Congo, Dem. Rep.",COD,2001,"Prevalence of underweight, weight for age (% of children under 5)",SH.STA.MALN.ZS,30.3
+"Congo, Dem. Rep.",COD,1995,"Prevalence of underweight, weight for age (% of children under 5)",SH.STA.MALN.ZS,30.7
+"Congo, Dem. Rep.",COD,2012,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,77.2
+"Congo, Dem. Rep.",COD,2004,Poverty headcount ratio at $1.90 a day (2011 PPP) (% of population),SI.POV.DDAY,94.3
+"Congo, Dem. Rep.",COD,2020,Population growth (annual %),SP.POP.GROW,3.142651608
+"Congo, Dem. Rep.",COD,2019,Population growth (annual %),SP.POP.GROW,3.187086265
+"Congo, Dem. Rep.",COD,2018,Population growth (annual %),SP.POP.GROW,3.226698861
+"Congo, Dem. Rep.",COD,2017,Population growth (annual %),SP.POP.GROW,3.258505772
+"Congo, Dem. Rep.",COD,2016,Population growth (annual %),SP.POP.GROW,3.282934175
+"Congo, Dem. Rep.",COD,2015,Population growth (annual %),SP.POP.GROW,3.302819182
+"Congo, Dem. Rep.",COD,2014,Population growth (annual %),SP.POP.GROW,3.319678158
+"Congo, Dem. Rep.",COD,2013,Population growth (annual %),SP.POP.GROW,3.33135585
+"Congo, Dem. Rep.",COD,2012,Population growth (annual %),SP.POP.GROW,3.33757067
+"Congo, Dem. Rep.",COD,2011,Population growth (annual %),SP.POP.GROW,3.337675974
+"Congo, Dem. Rep.",COD,2010,Population growth (annual %),SP.POP.GROW,3.331133308
+"Congo, Dem. Rep.",COD,2009,Population growth (annual %),SP.POP.GROW,3.316893457
+"Congo, Dem. Rep.",COD,2008,Population growth (annual %),SP.POP.GROW,3.293966996
+"Congo, Dem. Rep.",COD,2007,Population growth (annual %),SP.POP.GROW,3.261373538
+"Congo, Dem. Rep.",COD,2006,Population growth (annual %),SP.POP.GROW,3.218827805
+"Congo, Dem. Rep.",COD,2005,Population growth (annual %),SP.POP.GROW,3.184226692
+"Congo, Dem. Rep.",COD,2004,Population growth (annual %),SP.POP.GROW,3.145471276
+"Congo, Dem. Rep.",COD,2003,Population growth (annual %),SP.POP.GROW,3.068266631
+"Congo, Dem. Rep.",COD,2002,Population growth (annual %),SP.POP.GROW,2.93639206
+"Congo, Dem. Rep.",COD,2001,Population growth (annual %),SP.POP.GROW,2.769241291
+"Congo, Dem. Rep.",COD,2000,Population growth (annual %),SP.POP.GROW,2.550440473
+"Congo, Dem. Rep.",COD,1999,Population growth (annual %),SP.POP.GROW,2.356949281
+"Congo, Dem. Rep.",COD,1998,Population growth (annual %),SP.POP.GROW,2.306845116
+"Congo, Dem. Rep.",COD,1997,Population growth (annual %),SP.POP.GROW,2.471590947
+"Congo, Dem. Rep.",COD,1996,Population growth (annual %),SP.POP.GROW,2.800968818
+"Congo, Dem. Rep.",COD,1995,Population growth (annual %),SP.POP.GROW,3.234496171
+"Congo, Dem. Rep.",COD,1994,Population growth (annual %),SP.POP.GROW,3.635558256
+"Congo, Dem. Rep.",COD,1993,Population growth (annual %),SP.POP.GROW,3.892606549
+"Congo, Dem. Rep.",COD,1992,Population growth (annual %),SP.POP.GROW,3.893542081
+"Congo, Dem. Rep.",COD,1991,Population growth (annual %),SP.POP.GROW,3.676568837
+"Congo, Dem. Rep.",COD,1990,Population growth (annual %),SP.POP.GROW,3.370795322
+"Congo, Dem. Rep.",COD,1989,Population growth (annual %),SP.POP.GROW,3.098428547
+"Congo, Dem. Rep.",COD,1988,Population growth (annual %),SP.POP.GROW,2.861056299
+"Congo, Dem. Rep.",COD,1987,Population growth (annual %),SP.POP.GROW,2.716096808
+"Congo, Dem. Rep.",COD,1986,Population growth (annual %),SP.POP.GROW,2.650708114
+"Congo, Dem. Rep.",COD,1985,Population growth (annual %),SP.POP.GROW,2.581660589
+"Congo, Dem. Rep.",COD,1984,Population growth (annual %),SP.POP.GROW,2.488866945
+"Congo, Dem. Rep.",COD,1983,Population growth (annual %),SP.POP.GROW,2.446846658
+"Congo, Dem. Rep.",COD,1982,Population growth (annual %),SP.POP.GROW,2.472709617
+"Congo, Dem. Rep.",COD,1981,Population growth (annual %),SP.POP.GROW,2.55232497
+"Congo, Dem. Rep.",COD,1980,Population growth (annual %),SP.POP.GROW,2.673260096
+"Congo, Dem. Rep.",COD,1979,Population growth (annual %),SP.POP.GROW,2.794378618
+"Congo, Dem. Rep.",COD,1978,Population growth (annual %),SP.POP.GROW,2.874916469
+"Congo, Dem. Rep.",COD,1977,Population growth (annual %),SP.POP.GROW,2.881030908
+"Congo, Dem. Rep.",COD,1976,Population growth (annual %),SP.POP.GROW,2.82767718
+"Congo, Dem. Rep.",COD,1975,Population growth (annual %),SP.POP.GROW,2.750865856
+"Congo, Dem. Rep.",COD,1974,Population growth (annual %),SP.POP.GROW,2.691289798
+"Congo, Dem. Rep.",COD,1973,Population growth (annual %),SP.POP.GROW,2.65871286
+"Congo, Dem. Rep.",COD,1972,Population growth (annual %),SP.POP.GROW,2.673986154
+"Congo, Dem. Rep.",COD,1971,Population growth (annual %),SP.POP.GROW,2.726121772
+"Congo, Dem. Rep.",COD,1970,Population growth (annual %),SP.POP.GROW,2.793204725
+"Congo, Dem. Rep.",COD,1969,Population growth (annual %),SP.POP.GROW,2.845599736
+"Congo, Dem. Rep.",COD,1968,Population growth (annual %),SP.POP.GROW,2.870769434
+"Congo, Dem. Rep.",COD,1967,Population growth (annual %),SP.POP.GROW,2.850957003
+"Congo, Dem. Rep.",COD,1966,Population growth (annual %),SP.POP.GROW,2.794067556
+"Congo, Dem. Rep.",COD,1965,Population growth (annual %),SP.POP.GROW,2.719756344
+"Congo, Dem. Rep.",COD,1964,Population growth (annual %),SP.POP.GROW,2.649597728
+"Congo, Dem. Rep.",COD,1963,Population growth (annual %),SP.POP.GROW,2.5884644
+"Congo, Dem. Rep.",COD,1962,Population growth (annual %),SP.POP.GROW,2.547493671
+"Congo, Dem. Rep.",COD,1961,Population growth (annual %),SP.POP.GROW,2.521952962
+"Congo, Dem. Rep.",COD,2020,"Population, total",SP.POP.TOTL,89561404
+"Congo, Dem. Rep.",COD,2019,"Population, total",SP.POP.TOTL,86790568
+"Congo, Dem. Rep.",COD,2018,"Population, total",SP.POP.TOTL,84068092
+"Congo, Dem. Rep.",COD,2017,"Population, total",SP.POP.TOTL,81398765
+"Congo, Dem. Rep.",COD,2016,"Population, total",SP.POP.TOTL,78789130
+"Congo, Dem. Rep.",COD,2015,"Population, total",SP.POP.TOTL,76244532
+"Congo, Dem. Rep.",COD,2014,"Population, total",SP.POP.TOTL,73767445
+"Congo, Dem. Rep.",COD,2013,"Population, total",SP.POP.TOTL,71358804
+"Congo, Dem. Rep.",COD,2012,"Population, total",SP.POP.TOTL,69020749
+"Congo, Dem. Rep.",COD,2011,"Population, total",SP.POP.TOTL,66755151
+"Congo, Dem. Rep.",COD,2010,"Population, total",SP.POP.TOTL,64563853
+"Congo, Dem. Rep.",COD,2009,"Population, total",SP.POP.TOTL,62448572
+"Congo, Dem. Rep.",COD,2008,"Population, total",SP.POP.TOTL,60411195
+"Congo, Dem. Rep.",COD,2007,"Population, total",SP.POP.TOTL,58453687
+"Congo, Dem. Rep.",COD,2006,"Population, total",SP.POP.TOTL,56578046
+"Congo, Dem. Rep.",COD,2005,"Population, total",SP.POP.TOTL,54785894
+"Congo, Dem. Rep.",COD,2004,"Population, total",SP.POP.TOTL,53068869
+"Congo, Dem. Rep.",COD,2003,"Population, total",SP.POP.TOTL,51425583
+"Congo, Dem. Rep.",COD,2002,"Population, total",SP.POP.TOTL,49871670
+"Congo, Dem. Rep.",COD,2001,"Population, total",SP.POP.TOTL,48428534
+"Congo, Dem. Rep.",COD,2000,"Population, total",SP.POP.TOTL,47105830
+"Congo, Dem. Rep.",COD,1999,"Population, total",SP.POP.TOTL,45919615
+"Congo, Dem. Rep.",COD,1998,"Population, total",SP.POP.TOTL,44849968
+"Congo, Dem. Rep.",COD,1997,"Population, total",SP.POP.TOTL,43827191
+"Congo, Dem. Rep.",COD,1996,"Population, total",SP.POP.TOTL,42757239
+"Congo, Dem. Rep.",COD,1995,"Population, total",SP.POP.TOTL,41576239
+"Congo, Dem. Rep.",COD,1994,"Population, total",SP.POP.TOTL,40252973
+"Congo, Dem. Rep.",COD,1993,"Population, total",SP.POP.TOTL,38815835
+"Congo, Dem. Rep.",COD,1992,"Population, total",SP.POP.TOTL,37333917
+"Congo, Dem. Rep.",COD,1991,"Population, total",SP.POP.TOTL,35908240
+"Congo, Dem. Rep.",COD,1990,"Population, total",SP.POP.TOTL,34612023
+"Congo, Dem. Rep.",COD,1989,"Population, total",SP.POP.TOTL,33464767
+"Congo, Dem. Rep.",COD,1988,"Population, total",SP.POP.TOTL,32443784
+"Congo, Dem. Rep.",COD,1987,"Population, total",SP.POP.TOTL,31528702
+"Congo, Dem. Rep.",COD,1986,"Population, total",SP.POP.TOTL,30683877
+"Congo, Dem. Rep.",COD,1985,"Population, total",SP.POP.TOTL,29881222
+"Congo, Dem. Rep.",COD,1984,"Population, total",SP.POP.TOTL,29119663
+"Congo, Dem. Rep.",COD,1983,"Population, total",SP.POP.TOTL,28403858
+"Congo, Dem. Rep.",COD,1982,"Population, total",SP.POP.TOTL,27717293
+"Congo, Dem. Rep.",COD,1981,"Population, total",SP.POP.TOTL,27040329
+"Congo, Dem. Rep.",COD,1980,"Population, total",SP.POP.TOTL,26358905
+"Congo, Dem. Rep.",COD,1979,"Population, total",SP.POP.TOTL,25663598
+"Congo, Dem. Rep.",COD,1978,"Population, total",SP.POP.TOTL,24956387
+"Congo, Dem. Rep.",COD,1977,"Population, total",SP.POP.TOTL,24249127
+"Congo, Dem. Rep.",COD,1976,"Population, total",SP.POP.TOTL,23560470
+"Congo, Dem. Rep.",COD,1975,"Population, total",SP.POP.TOTL,22903587
+"Congo, Dem. Rep.",COD,1974,"Population, total",SP.POP.TOTL,22282127
+"Congo, Dem. Rep.",COD,1973,"Population, total",SP.POP.TOTL,21690448
+"Congo, Dem. Rep.",COD,1972,"Population, total",SP.POP.TOTL,21121360
+"Congo, Dem. Rep.",COD,1971,"Population, total",SP.POP.TOTL,20564062
+"Congo, Dem. Rep.",COD,1970,"Population, total",SP.POP.TOTL,20011033
+"Congo, Dem. Rep.",COD,1969,"Population, total",SP.POP.TOTL,19459818
+"Congo, Dem. Rep.",COD,1968,"Population, total",SP.POP.TOTL,18913874
+"Congo, Dem. Rep.",COD,1967,"Population, total",SP.POP.TOTL,18378620
+"Congo, Dem. Rep.",COD,1966,"Population, total",SP.POP.TOTL,17862052
+"Congo, Dem. Rep.",COD,1965,"Population, total",SP.POP.TOTL,17369882
+"Congo, Dem. Rep.",COD,1964,"Population, total",SP.POP.TOTL,16903830
+"Congo, Dem. Rep.",COD,1963,"Population, total",SP.POP.TOTL,16461828
+"Congo, Dem. Rep.",COD,1962,"Population, total",SP.POP.TOTL,16041187
+"Congo, Dem. Rep.",COD,1961,"Population, total",SP.POP.TOTL,15637700
+"Congo, Dem. Rep.",COD,1960,"Population, total",SP.POP.TOTL,15248256
+"Congo, Dem. Rep.",COD,2020,Urban population growth (annual %),SP.URB.GROW,4.448304654
+"Congo, Dem. Rep.",COD,2019,Urban population growth (annual %),SP.URB.GROW,4.496512937
+"Congo, Dem. Rep.",COD,2018,Urban population growth (annual %),SP.URB.GROW,4.539827198
+"Congo, Dem. Rep.",COD,2017,Urban population growth (annual %),SP.URB.GROW,4.572939227
+"Congo, Dem. Rep.",COD,2016,Urban population growth (annual %),SP.URB.GROW,4.60083897
+"Congo, Dem. Rep.",COD,2015,Urban population growth (annual %),SP.URB.GROW,4.621727705
+"Congo, Dem. Rep.",COD,2014,Urban population growth (annual %),SP.URB.GROW,4.639396324
+"Congo, Dem. Rep.",COD,2013,Urban population growth (annual %),SP.URB.GROW,4.649247652
+"Congo, Dem. Rep.",COD,2012,Urban population growth (annual %),SP.URB.GROW,4.655798382
+"Congo, Dem. Rep.",COD,2011,Urban population growth (annual %),SP.URB.GROW,4.656012768
+"Congo, Dem. Rep.",COD,2010,Urban population growth (annual %),SP.URB.GROW,4.644293837
+"Congo, Dem. Rep.",COD,2009,Urban population growth (annual %),SP.URB.GROW,4.629569325
+"Congo, Dem. Rep.",COD,2008,Urban population growth (annual %),SP.URB.GROW,4.600702716
+"Congo, Dem. Rep.",COD,2007,Urban population growth (annual %),SP.URB.GROW,4.566971723
+"Congo, Dem. Rep.",COD,2006,Urban population growth (annual %),SP.URB.GROW,4.517685435
+"Congo, Dem. Rep.",COD,2005,Urban population growth (annual %),SP.URB.GROW,4.475847165
+"Congo, Dem. Rep.",COD,2004,Urban population growth (annual %),SP.URB.GROW,4.434833735
+"Congo, Dem. Rep.",COD,2003,Urban population growth (annual %),SP.URB.GROW,4.366140672
+"Congo, Dem. Rep.",COD,2002,Urban population growth (annual %),SP.URB.GROW,4.242911245
+"Congo, Dem. Rep.",COD,2001,Urban population growth (annual %),SP.URB.GROW,4.084505447
+"Congo, Dem. Rep.",COD,2000,Urban population growth (annual %),SP.URB.GROW,3.877473352
+"Congo, Dem. Rep.",COD,1999,Urban population growth (annual %),SP.URB.GROW,3.693046938
+"Congo, Dem. Rep.",COD,1998,Urban population growth (annual %),SP.URB.GROW,3.652151739
+"Congo, Dem. Rep.",COD,1997,Urban population growth (annual %),SP.URB.GROW,3.823228438
+"Congo, Dem. Rep.",COD,1996,Urban population growth (annual %),SP.URB.GROW,4.165032503
+"Congo, Dem. Rep.",COD,1995,Urban population growth (annual %),SP.URB.GROW,4.608157986
+"Congo, Dem. Rep.",COD,1994,Urban population growth (annual %),SP.URB.GROW,5.015831355
+"Congo, Dem. Rep.",COD,1993,Urban population growth (annual %),SP.URB.GROW,5.279505793
+"Congo, Dem. Rep.",COD,1992,Urban population growth (annual %),SP.URB.GROW,5.296726437
+"Congo, Dem. Rep.",COD,1991,Urban population growth (annual %),SP.URB.GROW,5.083399933
+"Congo, Dem. Rep.",COD,1990,Urban population growth (annual %),SP.URB.GROW,4.787765759
+"Congo, Dem. Rep.",COD,1989,Urban population growth (annual %),SP.URB.GROW,4.522329207
+"Congo, Dem. Rep.",COD,1988,Urban population growth (annual %),SP.URB.GROW,4.298716846
+"Congo, Dem. Rep.",COD,1987,Urban population growth (annual %),SP.URB.GROW,4.157434812
+"Congo, Dem. Rep.",COD,1986,Urban population growth (annual %),SP.URB.GROW,4.102609966
+"Congo, Dem. Rep.",COD,1985,Urban population growth (annual %),SP.URB.GROW,4.040721029
+"Congo, Dem. Rep.",COD,1984,Urban population growth (annual %),SP.URB.GROW,3.418438179
+"Congo, Dem. Rep.",COD,1983,Urban population growth (annual %),SP.URB.GROW,3.374264323
+"Congo, Dem. Rep.",COD,1982,Urban population growth (annual %),SP.URB.GROW,3.405148225
+"Congo, Dem. Rep.",COD,1981,Urban population growth (annual %),SP.URB.GROW,3.489849711
+"Congo, Dem. Rep.",COD,1980,Urban population growth (annual %),SP.URB.GROW,3.612207675
+"Congo, Dem. Rep.",COD,1979,Urban population growth (annual %),SP.URB.GROW,3.738453354
+"Congo, Dem. Rep.",COD,1978,Urban population growth (annual %),SP.URB.GROW,3.82038014
+"Congo, Dem. Rep.",COD,1977,Urban population growth (annual %),SP.URB.GROW,3.831700962
+"Congo, Dem. Rep.",COD,1976,Urban population growth (annual %),SP.URB.GROW,3.779714759
+"Congo, Dem. Rep.",COD,1975,Urban population growth (annual %),SP.URB.GROW,3.70814239
+"Congo, Dem. Rep.",COD,1974,Urban population growth (annual %),SP.URB.GROW,3.649934086
+"Congo, Dem. Rep.",COD,1973,Urban population growth (annual %),SP.URB.GROW,3.618649992
+"Congo, Dem. Rep.",COD,1972,Urban population growth (annual %),SP.URB.GROW,3.643243668
+"Congo, Dem. Rep.",COD,1971,Urban population growth (annual %),SP.URB.GROW,3.692655048
+"Congo, Dem. Rep.",COD,1970,Urban population growth (annual %),SP.URB.GROW,3.765069829
+"Congo, Dem. Rep.",COD,1969,Urban population growth (annual %),SP.URB.GROW,3.818738179
+"Congo, Dem. Rep.",COD,1968,Urban population growth (annual %),SP.URB.GROW,3.849272466
+"Congo, Dem. Rep.",COD,1967,Urban population growth (annual %),SP.URB.GROW,3.830673201
+"Congo, Dem. Rep.",COD,1966,Urban population growth (annual %),SP.URB.GROW,3.779211807
+"Congo, Dem. Rep.",COD,1965,Urban population growth (annual %),SP.URB.GROW,3.706073563
+"Congo, Dem. Rep.",COD,1964,Urban population growth (annual %),SP.URB.GROW,3.637042972
+"Congo, Dem. Rep.",COD,1963,Urban population growth (annual %),SP.URB.GROW,3.581365267
+"Congo, Dem. Rep.",COD,1962,Urban population growth (annual %),SP.URB.GROW,3.545926555
+"Congo, Dem. Rep.",COD,1961,Urban population growth (annual %),SP.URB.GROW,3.51698378
+"Congo, Dem. Rep.",COD,2020,Urban population,SP.URB.TOTL,40874034
+"Congo, Dem. Rep.",COD,2019,Urban population,SP.URB.TOTL,39095679
+"Congo, Dem. Rep.",COD,2018,Urban population,SP.URB.TOTL,37376674
+"Congo, Dem. Rep.",COD,2017,Urban population,SP.URB.TOTL,35717778
+"Congo, Dem. Rep.",COD,2016,Urban population,SP.URB.TOTL,34121209
+"Congo, Dem. Rep.",COD,2015,Urban population,SP.URB.TOTL,32586913
+"Congo, Dem. Rep.",COD,2014,Urban population,SP.URB.TOTL,31115108
+"Congo, Dem. Rep.",COD,2013,Urban population,SP.URB.TOTL,29704529
+"Congo, Dem. Rep.",COD,2012,Urban population,SP.URB.TOTL,28355104
+"Congo, Dem. Rep.",COD,2011,Urban population,SP.URB.TOTL,27065208
+"Congo, Dem. Rep.",COD,2010,Urban population,SP.URB.TOTL,25833935
+"Congo, Dem. Rep.",COD,2009,Urban population,SP.URB.TOTL,24661566
+"Congo, Dem. Rep.",COD,2008,Urban population,SP.URB.TOTL,23545867
+"Congo, Dem. Rep.",COD,2007,Urban population,SP.URB.TOTL,22487133
+"Congo, Dem. Rep.",COD,2006,Urban population,SP.URB.TOTL,21483250
+"Congo, Dem. Rep.",COD,2005,Urban population,SP.URB.TOTL,20534301
+"Congo, Dem. Rep.",COD,2004,Urban population,SP.URB.TOTL,19635482
+"Congo, Dem. Rep.",COD,2003,Urban population,SP.URB.TOTL,18783708
+"Congo, Dem. Rep.",COD,2002,Urban population,SP.URB.TOTL,17981231
+"Congo, Dem. Rep.",COD,2001,Urban population,SP.URB.TOTL,17234262
+"Congo, Dem. Rep.",COD,2000,Urban population,SP.URB.TOTL,16544510
+"Congo, Dem. Rep.",COD,1999,Urban population,SP.URB.TOTL,15915279
+"Congo, Dem. Rep.",COD,1998,Urban population,SP.URB.TOTL,15338241
+"Congo, Dem. Rep.",COD,1997,Urban population,SP.URB.TOTL,14788171
+"Congo, Dem. Rep.",COD,1996,Urban population,SP.URB.TOTL,14233457
+"Congo, Dem. Rep.",COD,1995,Urban population,SP.URB.TOTL,13652805
+"Congo, Dem. Rep.",COD,1994,Urban population,SP.URB.TOTL,13037938
+"Congo, Dem. Rep.",COD,1993,Urban population,SP.URB.TOTL,12400107
+"Congo, Dem. Rep.",COD,1992,Urban population,SP.URB.TOTL,11762424
+"Congo, Dem. Rep.",COD,1991,Urban population,SP.URB.TOTL,11155613
+"Congo, Dem. Rep.",COD,1990,Urban population,SP.URB.TOTL,10602701
+"Congo, Dem. Rep.",COD,1989,Urban population,SP.URB.TOTL,10107029
+"Congo, Dem. Rep.",COD,1988,Urban population,SP.URB.TOTL,9660137
+"Congo, Dem. Rep.",COD,1987,Urban population,SP.URB.TOTL,9253674
+"Congo, Dem. Rep.",COD,1986,Urban population,SP.URB.TOTL,8876846
+"Congo, Dem. Rep.",COD,1985,Urban population,SP.URB.TOTL,8520033
+"Congo, Dem. Rep.",COD,1984,Urban population,SP.URB.TOTL,8182625
+"Congo, Dem. Rep.",COD,1983,Urban population,SP.URB.TOTL,7907634
+"Congo, Dem. Rep.",COD,1982,Urban population,SP.URB.TOTL,7645261
+"Congo, Dem. Rep.",COD,1981,Urban population,SP.URB.TOTL,7389311
+"Congo, Dem. Rep.",COD,1980,Urban population,SP.URB.TOTL,7135883
+"Congo, Dem. Rep.",COD,1979,Urban population,SP.URB.TOTL,6882720
+"Congo, Dem. Rep.",COD,1978,Urban population,SP.URB.TOTL,6630163
+"Congo, Dem. Rep.",COD,1977,Urban population,SP.URB.TOTL,6381643
+"Congo, Dem. Rep.",COD,1976,Urban population,SP.URB.TOTL,6141743
+"Congo, Dem. Rep.",COD,1975,Urban population,SP.URB.TOTL,5913935
+"Congo, Dem. Rep.",COD,1974,Urban population,SP.URB.TOTL,5698654
+"Congo, Dem. Rep.",COD,1973,Urban population,SP.URB.TOTL,5494407
+"Congo, Dem. Rep.",COD,1972,Urban population,SP.URB.TOTL,5299138
+"Congo, Dem. Rep.",COD,1971,Urban population,SP.URB.TOTL,5109552
+"Congo, Dem. Rep.",COD,1970,Urban population,SP.URB.TOTL,4924315
+"Congo, Dem. Rep.",COD,1969,Urban population,SP.URB.TOTL,4742358
+"Congo, Dem. Rep.",COD,1968,Urban population,SP.URB.TOTL,4564674
+"Congo, Dem. Rep.",COD,1967,Urban population,SP.URB.TOTL,4392306
+"Congo, Dem. Rep.",COD,1966,Urban population,SP.URB.TOTL,4227233
+"Congo, Dem. Rep.",COD,1965,Urban population,SP.URB.TOTL,4070458
+"Congo, Dem. Rep.",COD,1964,Urban population,SP.URB.TOTL,3922365
+"Congo, Dem. Rep.",COD,1963,Urban population,SP.URB.TOTL,3782270
+"Congo, Dem. Rep.",COD,1962,Urban population,SP.URB.TOTL,3649210
+"Congo, Dem. Rep.",COD,1961,Urban population,SP.URB.TOTL,3522079
+"Congo, Dem. Rep.",COD,1960,Urban population,SP.URB.TOTL,3400361
+"Congo, Dem. Rep.",COD,2020,Urban population (% of total population),SP.URB.TOTL.IN.ZS,45.638
+"Congo, Dem. Rep.",COD,2019,Urban population (% of total population),SP.URB.TOTL.IN.ZS,45.046
+"Congo, Dem. Rep.",COD,2018,Urban population (% of total population),SP.URB.TOTL.IN.ZS,44.46
+"Congo, Dem. Rep.",COD,2017,Urban population (% of total population),SP.URB.TOTL.IN.ZS,43.88
+"Congo, Dem. Rep.",COD,2016,Urban population (% of total population),SP.URB.TOTL.IN.ZS,43.307
+"Congo, Dem. Rep.",COD,2015,Urban population (% of total population),SP.URB.TOTL.IN.ZS,42.74
+"Congo, Dem. Rep.",COD,2014,Urban population (% of total population),SP.URB.TOTL.IN.ZS,42.18
+"Congo, Dem. Rep.",COD,2013,Urban population (% of total population),SP.URB.TOTL.IN.ZS,41.627
+"Congo, Dem. Rep.",COD,2012,Urban population (% of total population),SP.URB.TOTL.IN.ZS,41.082
+"Congo, Dem. Rep.",COD,2011,Urban population (% of total population),SP.URB.TOTL.IN.ZS,40.544
+"Congo, Dem. Rep.",COD,2010,Urban population (% of total population),SP.URB.TOTL.IN.ZS,40.013
+"Congo, Dem. Rep.",COD,2009,Urban population (% of total population),SP.URB.TOTL.IN.ZS,39.491
+"Congo, Dem. Rep.",COD,2008,Urban population (% of total population),SP.URB.TOTL.IN.ZS,38.976
+"Congo, Dem. Rep.",COD,2007,Urban population (% of total population),SP.URB.TOTL.IN.ZS,38.47
+"Congo, Dem. Rep.",COD,2006,Urban population (% of total population),SP.URB.TOTL.IN.ZS,37.971
+"Congo, Dem. Rep.",COD,2005,Urban population (% of total population),SP.URB.TOTL.IN.ZS,37.481
+"Congo, Dem. Rep.",COD,2004,Urban population (% of total population),SP.URB.TOTL.IN.ZS,37
+"Congo, Dem. Rep.",COD,2003,Urban population (% of total population),SP.URB.TOTL.IN.ZS,36.526
+"Congo, Dem. Rep.",COD,2002,Urban population (% of total population),SP.URB.TOTL.IN.ZS,36.055
+"Congo, Dem. Rep.",COD,2001,Urban population (% of total population),SP.URB.TOTL.IN.ZS,35.587
+"Congo, Dem. Rep.",COD,2000,Urban population (% of total population),SP.URB.TOTL.IN.ZS,35.122
+"Congo, Dem. Rep.",COD,1999,Urban population (% of total population),SP.URB.TOTL.IN.ZS,34.659
+"Congo, Dem. Rep.",COD,1998,Urban population (% of total population),SP.URB.TOTL.IN.ZS,34.199
+"Congo, Dem. Rep.",COD,1997,Urban population (% of total population),SP.URB.TOTL.IN.ZS,33.742
+"Congo, Dem. Rep.",COD,1996,Urban population (% of total population),SP.URB.TOTL.IN.ZS,33.289
+"Congo, Dem. Rep.",COD,1995,Urban population (% of total population),SP.URB.TOTL.IN.ZS,32.838
+"Congo, Dem. Rep.",COD,1994,Urban population (% of total population),SP.URB.TOTL.IN.ZS,32.39
+"Congo, Dem. Rep.",COD,1993,Urban population (% of total population),SP.URB.TOTL.IN.ZS,31.946
+"Congo, Dem. Rep.",COD,1992,Urban population (% of total population),SP.URB.TOTL.IN.ZS,31.506
+"Congo, Dem. Rep.",COD,1991,Urban population (% of total population),SP.URB.TOTL.IN.ZS,31.067
+"Congo, Dem. Rep.",COD,1990,Urban population (% of total population),SP.URB.TOTL.IN.ZS,30.633
+"Congo, Dem. Rep.",COD,1989,Urban population (% of total population),SP.URB.TOTL.IN.ZS,30.202
+"Congo, Dem. Rep.",COD,1988,Urban population (% of total population),SP.URB.TOTL.IN.ZS,29.775
+"Congo, Dem. Rep.",COD,1987,Urban population (% of total population),SP.URB.TOTL.IN.ZS,29.35
+"Congo, Dem. Rep.",COD,1986,Urban population (% of total population),SP.URB.TOTL.IN.ZS,28.93
+"Congo, Dem. Rep.",COD,1985,Urban population (% of total population),SP.URB.TOTL.IN.ZS,28.513
+"Congo, Dem. Rep.",COD,1984,Urban population (% of total population),SP.URB.TOTL.IN.ZS,28.1
+"Congo, Dem. Rep.",COD,1983,Urban population (% of total population),SP.URB.TOTL.IN.ZS,27.84
+"Congo, Dem. Rep.",COD,1982,Urban population (% of total population),SP.URB.TOTL.IN.ZS,27.583
+"Congo, Dem. Rep.",COD,1981,Urban population (% of total population),SP.URB.TOTL.IN.ZS,27.327
+"Congo, Dem. Rep.",COD,1980,Urban population (% of total population),SP.URB.TOTL.IN.ZS,27.072
+"Congo, Dem. Rep.",COD,1979,Urban population (% of total population),SP.URB.TOTL.IN.ZS,26.819
+"Congo, Dem. Rep.",COD,1978,Urban population (% of total population),SP.URB.TOTL.IN.ZS,26.567
+"Congo, Dem. Rep.",COD,1977,Urban population (% of total population),SP.URB.TOTL.IN.ZS,26.317
+"Congo, Dem. Rep.",COD,1976,Urban population (% of total population),SP.URB.TOTL.IN.ZS,26.068
+"Congo, Dem. Rep.",COD,1975,Urban population (% of total population),SP.URB.TOTL.IN.ZS,25.821
+"Congo, Dem. Rep.",COD,1974,Urban population (% of total population),SP.URB.TOTL.IN.ZS,25.575
+"Congo, Dem. Rep.",COD,1973,Urban population (% of total population),SP.URB.TOTL.IN.ZS,25.331
+"Congo, Dem. Rep.",COD,1972,Urban population (% of total population),SP.URB.TOTL.IN.ZS,25.089
+"Congo, Dem. Rep.",COD,1971,Urban population (% of total population),SP.URB.TOTL.IN.ZS,24.847
+"Congo, Dem. Rep.",COD,1970,Urban population (% of total population),SP.URB.TOTL.IN.ZS,24.608
+"Congo, Dem. Rep.",COD,1969,Urban population (% of total population),SP.URB.TOTL.IN.ZS,24.37
+"Congo, Dem. Rep.",COD,1968,Urban population (% of total population),SP.URB.TOTL.IN.ZS,24.134
+"Congo, Dem. Rep.",COD,1967,Urban population (% of total population),SP.URB.TOTL.IN.ZS,23.899
+"Congo, Dem. Rep.",COD,1966,Urban population (% of total population),SP.URB.TOTL.IN.ZS,23.666
+"Congo, Dem. Rep.",COD,1965,Urban population (% of total population),SP.URB.TOTL.IN.ZS,23.434
+"Congo, Dem. Rep.",COD,1964,Urban population (% of total population),SP.URB.TOTL.IN.ZS,23.204
+"Congo, Dem. Rep.",COD,1963,Urban population (% of total population),SP.URB.TOTL.IN.ZS,22.976
+"Congo, Dem. Rep.",COD,1962,Urban population (% of total population),SP.URB.TOTL.IN.ZS,22.749
+"Congo, Dem. Rep.",COD,1961,Urban population (% of total population),SP.URB.TOTL.IN.ZS,22.523
+"Congo, Dem. Rep.",COD,1960,Urban population (% of total population),SP.URB.TOTL.IN.ZS,22.3
+"Congo, Dem. Rep.",COD,2004,"Roads, paved (% of total roads)",IS.ROD.PAVE.ZS,1.820000052
