@@ -3,7 +3,8 @@ DRC$Year <- as.numeric(as.character(DRC$Year))
 DRC$populationgrowth <- as.numeric(as.character(DRC$populationgrowth))
 
 
-plot(DRC$Year, DRC$populationgrowth, pch = 0.5, na.rm = FALSE, main = "Population Growth 1960 to 2020")
+plot(DRC$Year, DRC$populationgrowth, pch = 10, col = "orange", cex = 0.5,  main = "Population Growth Rate in Percent from 1960 to 2020",
+     xlab = "Year", ylab = "Growth Rate (%)", type = "s")
 
 #Plotting total pop.
 
@@ -29,8 +30,8 @@ g <- ggplot(data = DRC)+
   scale_color_discrete(name = "Statistic by Percentage") +
   theme_minimal() +
   xlab("Year") +
-  ylab("Percent") +
-  title(main = "Electricity, Pop. and Urban Pop.")
+  ylab("Growth Rate (%)") +
+  labs(title = "Electricity Access, Population, and Urban Population Growth Rates")
 
 g
 
